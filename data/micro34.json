@@ -1,0 +1,502 @@
+[
+  {
+    "question": "The chemical basis of the O-antigen of Enterobacteriaceae is:",
+    "options": [
+      "Lipid",
+      "Polysaccharide",
+      "Protein",
+      "Lipopolysaccharide"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bacteria with terminal spore location are the causative agent of:",
+    "options": [
+      "Diphtheria",
+      "Anthrax",
+      "Botulism",
+      "Tetanus"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is NOT an antiviral drug?",
+    "options": [
+      "Acyclovir",
+      "Interferon",
+      "Clotrimazole",
+      "Rimantadine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The K-antigen of Enterobacteriaceae is a component of the:",
+    "options": [
+      "Cell wall",
+      "Pili",
+      "Cytoplasmic membrane",
+      "Capsule"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Pure cultures of aerobic bacteria are isolated using the method of:",
+    "options": [
+      "Kitt-Tarozzi",
+      "Koch",
+      "Drigalski",
+      "Zeissler"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Vector-borne transmission is characteristic of:",
+    "options": [
+      "Toxoplasmosis",
+      "Giardiasis",
+      "Malaria",
+      "Amebiasis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Enterobacteriaceae are classified by respiration type as:",
+    "options": [
+      "Aerobes",
+      "Obligate anaerobes",
+      "Facultative anaerobes",
+      "Microaerophiles"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The method used to stain bacterial capsules is:",
+    "options": [
+      "Burri-Gins",
+      "Ozhesko",
+      "Neisser",
+      "Ziehl-Neelsen"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Influenza virus antigens include all of the following EXCEPT:",
+    "options": [
+      "S (nucleoprotein)",
+      "H (hemagglutinin)",
+      "H (flagellar antigen)",
+      "N (neuraminidase)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which stage of infectious disease is characterized by the appearance of non-specific symptoms?",
+    "options": [
+      "Peak of illness",
+      "Prodromal period",
+      "Convalescence",
+      "Incubation period"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Antibiotics that inhibit bacterial protein synthesis include:",
+    "options": [
+      "Macrolides",
+      "Beta-lactams",
+      "Aminoglycosides",
+      "Polymyxins"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "An RNA virus possessing nucleoprotein, matrix protein M, hemagglutinin H, but lacking neuraminidase—this is characteristic of the agent of:",
+    "options": [
+      "Measles",
+      "Rubella",
+      "Rabies",
+      "HIV infection"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The culture medium used for isolation of Histoplasma capsulatum is:",
+    "options": [
+      "Blood agar",
+      "Endo agar",
+      "Sabouraud agar",
+      "Tryptic soy agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Rubella virus belongs to the genus:",
+    "options": [
+      "Morbillivirus",
+      "Rubulavirus",
+      "Rubivirus",
+      "Flavivirus"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Microbiological diagnosis of herpesvirus infection includes detection of:",
+    "options": [
+      "Lipschitz bodies",
+      "Babes-Negri bodies",
+      "Guarnieri bodies",
+      "Cowdry bodies"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Helicobacter pylori is characterized as:",
+    "options": [
+      "Microaerophile",
+      "Strict anaerobe",
+      "Aerobe",
+      "Facultative anaerobe"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Administration of immune sera results in which type of immunity?",
+    "options": [
+      "Artificial active",
+      "Artificial passive",
+      "Natural passive",
+      "Natural active"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Clostridium tetani causes which type of infection?",
+    "options": [
+      "Bacteremia",
+      "Viremia",
+      "Toxinemia",
+      "Septicemia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Mature cysts of Entamoeba histolytica contain:",
+    "options": [
+      "4 nuclei",
+      "8 nuclei",
+      "Undulating membrane",
+      "Axostyle"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Intrauterine fetal infection is possible in which disease?",
+    "options": [
+      "Measles",
+      "Rubella",
+      "Scarlet fever",
+      "Mumps"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Helicobacter pylori is characterized by:",
+    "options": [
+      "Urease production",
+      "Spore formation",
+      "Capsule synthesis",
+      "Strict anaerobic metabolism"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Treatment of herpesvirus infection includes:",
+    "options": [
+      "Antibiol",
+      "Rimantadine",
+      "Penicillin",
+      "Acyclovir"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A characteristic feature of immunity in tuberculosis is that it is:",
+    "options": [
+      "Innate",
+      "Transplacentally transmitted",
+      "Non-sterilizing",
+      "Antitoxin-mediated"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Virulence factors responsible for invasiveness and aggressiveness include:",
+    "options": [
+      "Neuraminidase",
+      "Type IV pili",
+      "Capsule",
+      "Adhesins"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Culture medium used for cultivation of Corynebacterium diphtheriae is:",
+    "options": [
+      "Kitt-Tarozzi",
+      "Giss's medium",
+      "Klauverg's medium",
+      "Lowenstein-Jensen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Enteroviruses include the causative agents of:",
+    "options": [
+      "Measles",
+      "Hepatitis B",
+      "Coxsackie virus",
+      "Hepatitis C"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Neisseria gonorrhoeae is:",
+    "options": [
+      "Gram-negative coccus",
+      "Obligate anaerobe",
+      "Psychrophile",
+      "Spore-forming"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The primary culture medium for isolation of dermatophytes is:",
+    "options": [
+      "Sabouraud agar",
+      "Endo agar",
+      "Blood agar",
+      "Meat-peptone agar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Facultative anaerobes are cultivated:",
+    "options": [
+      "Only at low oxygen concentrations",
+      "Only in the absence of oxygen",
+      "Both in the presence and absence of oxygen",
+      "Only in the presence of oxygen"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A habitat of the normal human large intestinal microbiota is:",
+    "options": [
+      "E. coli",
+      "S. sonnei",
+      "S. aureus",
+      "S. enteritidis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Therapeutic and prophylactic bacteriophages include all of the following EXCEPT:",
+    "options": [
+      "Salmonella phages",
+      "Dysentery (Shigella) phages",
+      "Typhoid phages",
+      "Tuberculosis phages"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Administration of vaccines results in which type of immunity?",
+    "options": [
+      "Artificial active",
+      "Artificial passive",
+      "Natural passive",
+      "Natural active"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Transmission route of Bordetella pertussis (whooping cough):",
+    "options": [
+      "Transplacental",
+      "Vector-borne",
+      "Fecal-oral",
+      "Airborne droplet"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "During the primary immune response, the antibody class produced in the acute phase of disease is:",
+    "options": [
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgM"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is a characteristic feature of Helicobacter pylori?",
+    "options": [
+      "It is a strict anaerobe.",
+      "It produces urease.",
+      "It is a psychrophile.",
+      "It forms terminal spores."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Acyclovir is an antiviral drug used to treat infections caused by:",
+    "options": [
+      "Influenza virus",
+      "Herpesvirus",
+      "HIV",
+      "Hepatitis B virus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The type of immunity that is non-sterilizing is characteristic of:",
+    "options": [
+      "Diphtheria",
+      "Tetanus",
+      "Tuberculosis",
+      "Measles"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The ability of bacteria to resist phagocytosis is often attributed to which virulence factor?",
+    "options": [
+      "Pili",
+      "Flagella",
+      "Capsule",
+      "Exotoxin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Lowenstein-Jensen medium is used for the cultivation of:",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Neisseria gonorrhoeae",
+      "Mycobacterium tuberculosis",
+      "Histoplasma capsulatum"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Coxsackie virus belongs to which group of viruses?",
+    "options": [
+      "Enteroviruses",
+      "Herpesviruses",
+      "Orthomyxoviruses",
+      "Paramyxoviruses"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The Gram stain reaction of Neisseria gonorrhoeae is:",
+    "options": [
+      "Gram-positive coccus",
+      "Gram-negative coccus",
+      "Gram-positive rod",
+      "Gram-negative rod"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sabouraud agar is a selective medium primarily used for the isolation of:",
+    "options": [
+      "Fastidious bacteria",
+      "Fungi and dermatophytes",
+      "Anaerobic bacteria",
+      "Enteric bacteria"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "An organism that grows both in the presence and absence of oxygen is a/an:",
+    "options": [
+      "Obligate aerobe",
+      "Obligate anaerobe",
+      "Facultative anaerobe",
+      "Microaerophile"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Escherichia coli is a common inhabitant of the:",
+    "options": [
+      "Respiratory tract",
+      "Skin",
+      "Large intestine",
+      "Stomach"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Typhoid bacteriophages are used for:",
+    "options": [
+      "Treatment of typhoid fever",
+      "Typing of Salmonella Typhi strains",
+      "Prophylaxis against typhoid",
+      "Vaccination"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Immunity acquired after an infection is classified as:",
+    "options": [
+      "Artificial active",
+      "Artificial passive",
+      "Natural passive",
+      "Natural active"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Pertussis (whooping cough) is primarily transmitted via:",
+    "options": [
+      "Contaminated food and water",
+      "Arthropod vectors",
+      "Respiratory droplets",
+      "Blood transfusion"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The first antibodies produced during the initial (primary) response to an antigen are typically:",
+    "options": [
+      "IgG",
+      "IgA",
+      "IgM",
+      "IgE"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The presence of 4 nuclei is a diagnostic feature of the mature cyst of:",
+    "options": [
+      "Giardia lamblia",
+      "Entamoeba histolytica",
+      "Trichomonas vaginalis",
+      "Toxoplasma gondii"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Congenital infections (intrauterine) are a major concern with which of the following viruses?",
+    "options": [
+      "Influenza virus",
+      "Rubella virus",
+      "Rhinovirus",
+      "Rotavirus"
+    ],
+    "correct": 1
+  }
+]
