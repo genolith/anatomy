@@ -1,0 +1,552 @@
+[
+  {
+    "question": "What are the morphological and staining characteristics of the diphtheria pathogen?",
+    "options": [
+      "Small Gram-negative pleomorphic rods",
+      "Contain volutin granules",
+      "Gram-positive pleomorphic cocci",
+      "Possess pseudomona flagella",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The main factor in the pathogenesis of diphtheria is:",
+    "options": [
+      "Endotoxin",
+      "Proteolytic enzymes",
+      "Exotoxin",
+      "Hemolysis",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the causative agent of legionellosis?",
+    "options": [
+      "Legionella pneumophila",
+      "Legionella pomona",
+      "Legionella gormanii",
+      "Legionella cytica",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is a primary treatment for diphtheria?",
+    "options": [
+      "Antibiotics",
+      "Bacteriophages",
+      "Antitoxin serum",
+      "Live vaccine",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Ziehl-Neelsen staining is specifically used for diagnosing infections caused by:",
+    "options": [
+      "Mycobacterium",
+      "Vibrio",
+      "Treponemes",
+      "Helicobacter",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which medication is used in the treatment of herpesvirus infections?",
+    "options": [
+      "Arbiodi",
+      "Rimantadine",
+      "Penicillin",
+      "Acyclovir",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A characteristic feature of immunity in tuberculosis is that it is:",
+    "options": [
+      "Innate",
+      "Transplacentally transmitted",
+      "Non-sterilizing",
+      "Antitoxin-mediated",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In microbiology, \"staining properties\" refer to the ability of a microorganism to:",
+    "options": [
+      "Ferment carbohydrates",
+      "Take up dyes",
+      "Form spores",
+      "Grow on nutrient media",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which medium is used for the cultivation of Clostridium tetani?",
+    "options": [
+      "Kit-Tarozzi medium",
+      "Gio's medium",
+      "Klawery's medium",
+      "Lowenstein-Jensen medium",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "During the primary immune response, which antibody class is produced first in the acute phase of disease?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgG",
+      "IgE",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the primary transmission route of Bordetella pertussis (whooping cough)?",
+    "options": [
+      "Transplacental",
+      "Vector-borne",
+      "Fecal-oral",
+      "Airborne droplet",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Gonorrhea is classified as:",
+    "options": [
+      "Sapronosis",
+      "Zoonosis",
+      "Anthroponosis",
+      "Opportunistic infection",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The \"pearl necklace\" test is a diagnostic tool for which condition?",
+    "options": [
+      "Bronchiolitis",
+      "Salmonellosis",
+      "Asthma",
+      "Plague",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Specific prophylaxis (vaccination) has been developed for which of the following?",
+    "options": [
+      "Escherichia coli infections",
+      "Pseudomonas infections",
+      "Candidiasis",
+      "Diphtheria / Pertussis / others",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which disease is characterized by generalized vascular damage, fever, intoxication, hemorrhage syndrome, thrombocytopenia, and leukopenia?",
+    "options": [
+      "Infection caused by the HIRS agent (Hamarina)",
+      "Crimean-Congo hemorrhagic fever",
+      "Rubella",
+      "Measles",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The causative agent of yersiniosis is characterized as:",
+    "options": [
+      "Strictly anaerobic",
+      "Pyrophilic (heat-loving)",
+      "Gram-positive bacillus",
+      "Spore-forming",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The plague bacillus (Yersinia pestis) is cultivated on:",
+    "options": [
+      "Meat-peptone agar",
+      "Egg-yolk saline agar",
+      "Kit-Tarozzi medium",
+      "Loeffler's medium",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What are the cultural characteristics of meningococcus (Neisseria meningitidis)?",
+    "options": [
+      "Grow as R-type colonies",
+      "Aerobes, capnophiles, cultivated on blood-containing media",
+      "Anaerobes, cultivated on Kit-Tarozzi medium",
+      "Grow on Lowenstein-Jensen medium",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The genetic mechanisms responsible for antigenic variation in the Influenza A virus are:",
+    "options": [
+      "Alternative splicing",
+      "Conjugation",
+      "Transformation",
+      "Antigenic shift and drift",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Volutin granules, a characteristic feature of the diphtheria pathogen, are also known as:",
+    "options": [
+      "Metachromatic granules",
+      "Sulfur granules",
+      "Lipid inclusions",
+      "Endospores",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Antibiotics are used in the treatment of diphtheria primarily to:",
+    "options": [
+      "Neutralize the exotoxin",
+      "Eliminate the bacteria and stop toxin production",
+      "Provide long-term immunity",
+      "Treat the pseudomembrane directly",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The main action of diphtheria antitoxin serum is to:",
+    "options": [
+      "Kill Corynebacterium diphtheriae",
+      "Prevent the attachment of the bacteria",
+      "Neutralize the unbound exotoxin",
+      "Provide passive immunity to the bacteria",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Besides Legionella pneumophila, which other species is a known causative agent of legionellosis?",
+    "options": [
+      "Legionella pomona",
+      "Legionella micdadei",
+      "Legionella gormanii",
+      "Legionella cytica",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Mycobacteria are visualized using the Ziehl-Neelsen stain because they possess:",
+    "options": [
+      "A thick peptidoglycan layer",
+      "A lipopolysaccharide capsule",
+      "A waxy cell wall containing mycolic acid",
+      "Metachromatic granules",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Acyclovir is an antiviral drug that specifically inhibits:",
+    "options": [
+      "Influenza virus neuraminidase",
+      "HIV reverse transcriptase",
+      "Herpesvirus DNA polymerase",
+      "Hepatitis C virus protease",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The statement that immunity in tuberculosis is \"non-sterilizing\" means that:",
+    "options": [
+      "The infection is always fatal",
+      "Immunity does not develop after infection",
+      "The body cannot eliminate the bacteria, which persist in a latent state",
+      "Antibiotics are ineffective",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The Gram staining reaction of a bacterium is based on the:",
+    "options": [
+      "Presence of a capsule",
+      "Ability to form endospores",
+      "Composition and structure of the cell wall",
+      "Type of metabolism (aerobic/anaerobic)",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Kit-Tarozzi medium is a suitable culture medium for growing:",
+    "options": [
+      "Aerobic bacteria like Mycobacterium tuberculosis",
+      "Fastidious bacteria like Neisseria meningitidis",
+      "Anaerobic bacteria like Clostridium tetani",
+      "Fungi like Candida albicans",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The presence of which antibody class (IgM, IgG) in a patient's blood typically indicates a recent or acute infection?",
+    "options": [
+      "IgA",
+      "IgD",
+      "IgM",
+      "IgG",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which preventive measure is most effective for controlling the spread of pertussis (whooping cough)?",
+    "options": [
+      "Vector control",
+      "Water purification",
+      "Vaccination",
+      "Proper food handling",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The classification of gonorrhea as an \"anthroponosis\" indicates that its primary reservoir is:",
+    "options": [
+      "Animals",
+      "The environment (soil, water)",
+      "Humans",
+      "Insects",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "While a \"pearl necklace\" test exists for plague, what is the fundamental principle behind most confirmatory tests for Yersinia pestis?",
+    "options": [
+      "Detection of specific antibodies or antigens",
+      "Observation of its unique motility",
+      "Its ability to ferment lactose",
+      "Its requirement for light to grow",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The development of a vaccine for a disease like diphtheria is an example of:",
+    "options": [
+      "Specific prophylaxis",
+      "General prophylaxis",
+      "Phage therapy",
+      "Chemoprophylaxis",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The description of vascular damage, fever, and hemorrhage is most consistent with which type of pathogen?",
+    "options": [
+      "A virus causing hemorrhagic fever",
+      "A bacterium causing food poisoning",
+      "A fungus causing skin infection",
+      "A parasite causing malaria",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Yersinia enterocolitica, a cause of yersiniosis, is best described as:",
+    "options": [
+      "A spore-forming, Gram-positive rod",
+      "A Gram-negative coccobacillus that can grow at cold temperatures (psychrotrophic)",
+      "An obligate anaerobe",
+      "An acid-fast bacillus",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Loeffler's medium, mentioned for plague, is actually more classically associated with the cultivation of:",
+    "options": [
+      "Neisseria meningitidis",
+      "Corynebacterium diphtheriae",
+      "Salmonella typhi",
+      "Clostridium tetani",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Meningococci are fastidious, meaning they:",
+    "options": [
+      "Form spores readily",
+      "Require special growth factors or environmental conditions",
+      "Are resistant to all antibiotics",
+      "Can only live inside host cells",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Antigenic \"drift\" in influenza virus refers to:",
+    "options": [
+      "Major, abrupt changes due to genetic reassortment",
+      "Minor, gradual changes due to point mutations",
+      "The movement of the virus from animals to humans",
+      "The development of antiviral resistance",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "If a bacterium is described as Gram-positive, it will typically appear what color after Gram staining?",
+    "options": [
+      "Pink",
+      "Red",
+      "Purple",
+      "Colorless",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a laboratory method used to identify Clostridium tetani?",
+    "options": [
+      "Ziehl-Neelsen stain",
+      "Detection of toxin production in a mouse bioassay",
+      "Growth on Lowenstein-Jensen medium",
+      "Observation for a \"pearl necklace\" appearance",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "All of the following are associated with the primary immune response EXCEPT:",
+    "options": [
+      "A lag phase before antibody detection",
+      "Production of high-affinity IgG as the main initial antibody",
+      "Production of IgM antibodies",
+      "Establishment of immunological memory",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which pathogen is typically transmitted via the airborne droplet route?",
+    "options": [
+      "Clostridium tetani",
+      "Vibrio cholerae",
+      "Bordetella pertussis",
+      "Plasmodium falciparum",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A zoonosis is an infection that is:",
+    "options": [
+      "Transmitted from animals to humans",
+      "Acquired in a hospital",
+      "Caused by opportunistic pathogens",
+      "Spread by contaminated food",
+      "None of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "If a test is used to diagnose plague, what is it likely detecting?",
+    "options": [
+      "The patient's blood glucose level",
+      "The presence of Yersinia pestis antigens or DNA",
+      "Antibodies against the common cold",
+      "The level of liver enzymes",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The fact that a disease like Crimean-Congo hemorrhagic fever is caused by a virus influences treatment by making:",
+    "options": [
+      "Antibiotics the primary therapy",
+      "Supportive care and antiviral drugs (if available) the mainstay",
+      "Surgery the best option",
+      "Antitoxins the only effective treatment",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "If a bacterium is pyrophilic, it would be expected to:",
+    "options": [
+      "Grow best in the absence of oxygen",
+      "Grow best at very high temperatures",
+      "Stain purple with Gram stain",
+      "Produce a potent exotoxin",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Meat-peptone agar is considered a:",
+    "options": [
+      "Highly selective medium",
+      "Complex, general-purpose medium",
+      "Synthetic, defined medium",
+      "Medium only for anaerobes",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The need for capnophilic (CO2-loving) conditions for growing meningococcus in the laboratory reflects:",
+    "options": [
+      "Its adaptation to the oxygen-poor environment of tissues",
+      "Its adaptation to the CO2-rich environment of the respiratory tract",
+      "Its inability to ferment sugars",
+      "Its requirement for blood in the medium",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Antigenic shift in Influenza A virus can lead to pandemics because it results in:",
+    "options": [
+      "A virus that is less virulent",
+      "A virus with a novel surface antigen to which the population has no immunity",
+      "A virus that is easily treated with existing drugs",
+      "A virus that only infects birds",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "If a microbiologist wants to culture Mycobacterium tuberculosis, they would use:",
+    "options": [
+      "Kit-Tarozzi medium",
+      "Blood agar",
+      "Lowenstein-Jensen medium",
+      "MacConkey agar",
+      "None of the above"
+    ],
+    "correct": 2
+  }
+]
