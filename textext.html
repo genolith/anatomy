@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MCQ Text → JSON Parser + Copy/Download</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #f8f9fa;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    textarea {
+      width: 100%;
+      height: 400px;
+      padding: 16px;
+      font-family: 'Courier New', monospace;
+      font-size: 15px;
+      border: 2px solid #bdc3c7;
+      border-radius: 8px;
+      resize: vertical;
+      background: white;
+    }
+    .button-group {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin: 20px 0;
+    }
+    button {
+      padding: 14px 32px;
+      font-size: 18px;
+      font-weight: bold;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    #parseBtn {
+      background: #3498db;
+    }
+    #parseBtn:hover { background: #2980b9; }
+    #copyBtn {
+      background: #27ae60;
+    }
+    #copyBtn:hover { background: #219653; }
+    #downloadBtn {
+      background: #e67e22;
+    }
+    #downloadBtn:hover { background: #d35400; }
+    #output {
+      background: #272822;
+      color: #f8f8f2;
+      padding: 20px;
+      border-radius: 8px;
+      white-space: pre-wrap;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: 14px;
+      max-height: 500px;
+      overflow-y: auto;
+    }
+    #output:empty::before {
+      content: "JSON will appear here after clicking Parse";
+      color: #888;
+    }
+    #message {
+      text-align: center;
+      font-weight: bold;
+      margin: 10px 0;
+      min-height: 24px;
+    }
+    .success { color: #27ae60; }
+    .error   { color: #c0392b; }
+  </style>
+</head>
+<body>
+
+  <h1>MCQ Text → Structured JSON Parser</h1>
+
+  <p>Paste your questions block below (e.g. 301–350 style with numbered options and "Answer: X. ...")</p>
+
+  <textarea id="input" placeholder="Paste the text here..."></textarea>
+
+  <div class="button-group">
+    <button id="parseBtn" onclick="parseText()">Parse to JSON</button>
+    <button id="copyBtn" onclick="copyJson()" disabled>Copy JSON</button>
+    <button id="downloadBtn" onclick="downloadJson()" disabled>Download JSON</button>
+  </div>
+
+  <div id="message"></div>
+
+  <pre id="output"></pre>
+
+  <script>
+    let currentJson = ""; // Store the last generated JSON string
+
+    function parseText() {
+      const text = document.getElementById('input').value.trim();
+      const messageEl = document.getElementById('message');
+      messageEl.textContent = "";
+      messageEl.className = "";
+
+      if (!text) {
+        messageEl.textContent = "Please paste some text first!";
+        messageEl.className = "error";
+        return;
+      }
+
+      const questions = [];
+      const blocks = text.split(/\n(?=\d{3}\.)/).filter(b => b.trim());
+
+      for (let block of blocks) {
+        const lines = block.trim().split('\n').map(l => l.trim());
+
+        const qMatch = lines[0].match(/^(\d+)\.\s*(.+)$/);
+        if (!qMatch) continue;
+        const question = qMatch[2].trim();
+
+        const options = [];
+        let i = 1;
+        while (i < lines.length && options.length < 4) {
+          const line = lines[i];
+          const optMatch = line.match(/^\d\.\s*(.+)$/);
+          if (optMatch) {
+            options.push(optMatch[1].trim());
+          }
+          i++;
+        }
+
+        if (options.length !== 4) continue;
+
+        let correctIndex = -1;
+        for (let j = i; j < lines.length; j++) {
+          const line = lines[j];
+          const ansMatch = line.match(/^Answer:\s*(\d+)\./i);
+          if (ansMatch) {
+            correctIndex = parseInt(ansMatch[1], 10) - 1;
+            break;
+          }
+        }
+
+        if (correctIndex < 0 || correctIndex > 3) continue;
+
+        questions.push({
+          question: question,
+          options: options,
+          correct: correctIndex
+        });
+      }
+
+      if (questions.length === 0) {
+        messageEl.textContent = "No valid questions found in the text.";
+        messageEl.className = "error";
+        document.getElementById('output').textContent = "";
+        document.getElementById('copyBtn').disabled = true;
+        document.getElementById('downloadBtn').disabled = true;
+        return;
+      }
+
+      currentJson = JSON.stringify(questions, null, 2);
+      document.getElementById('output').textContent = currentJson;
+
+      document.getElementById('copyBtn').disabled = false;
+      document.getElementById('downloadBtn').disabled = false;
+
+      messageEl.textContent = `Parsed ${questions.length} questions successfully!`;
+      messageEl.className = "success";
+    }
+
+    function copyJson() {
+      if (!currentJson) return;
+      navigator.clipboard.writeText(currentJson).then(() => {
+        const msg = document.getElementById('message');
+        msg.textContent = "JSON copied to clipboard!";
+        msg.className = "success";
+        setTimeout(() => { msg.textContent = ""; }, 3000);
+      }).catch(() => {
+        const msg = document.getElementById('message');
+        msg.textContent = "Failed to copy (try manually selecting text)";
+        msg.className = "error";
+      });
+    }
+
+    function downloadJson() {
+      if (!currentJson) return;
+      const blob = new Blob([currentJson], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "mcqs.json";
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+
+      const msg = document.getElementById('message');
+      msg.textContent = "JSON file downloaded!";
+      msg.className = "success";
+      setTimeout(() => { msg.textContent = ""; }, 3000);
+    }
+  </script>
+
+</body>
+</html>
