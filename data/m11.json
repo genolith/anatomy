@@ -1,0 +1,502 @@
+[
+  {
+    "question": "The \"Schick test\" is used to determine susceptibility to:",
+    "options": [
+      "Diphtheria",
+      "Tetanus",
+      "Scarlet fever",
+      "Tuberculosis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Dick test\" is used to determine susceptibility to:",
+    "options": [
+      "Scarlet fever",
+      "Diphtheria",
+      "Tetanus",
+      "Tuberculosis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"VDRL test\" is a:",
+    "options": [
+      "Flocculation test for syphilis",
+      "Agglutination test",
+      "Complement fixation test",
+      "ELISA test"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Wassermann test\" is a:",
+    "options": [
+      "Complement fixation test for syphilis",
+      "Flocculation test",
+      "Agglutination test",
+      "Precipitation test"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Widal test\" is an example of:",
+    "options": [
+      "Agglutination reaction",
+      "Precipitation reaction",
+      "Complement fixation",
+      "Neutralization test"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Weil-Felix test\" is based on cross-reaction between:",
+    "options": [
+      "Rickettsia and Proteus antigens",
+      "Salmonella and E. coli antigens",
+      "Streptococcus and Staphylococcus antigens",
+      "Treponema and Borrelia antigens"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"ASO test\" detects antibodies against:",
+    "options": [
+      "Streptolysin O",
+      "Streptokinase",
+      "Hyaluronidase",
+      "DNase B"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"C-reactive protein (CRP)\" is an:",
+    "options": [
+      "Acute phase protein produced in response to inflammation",
+      "Antibody",
+      "Complement component",
+      "Cytokine"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Paul-Bunnell test\" is used to diagnose:",
+    "options": [
+      "Infectious mononucleosis",
+      "Rheumatoid arthritis",
+      "Syphilis",
+      "Typhoid fever"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Mono spot test\" is a rapid test for:",
+    "options": [
+      "Infectious mononucleosis",
+      "HIV",
+      "Hepatitis B",
+      "Rheumatoid arthritis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Rose-Waaler test\" is used to detect:",
+    "options": [
+      "Rheumatoid factor",
+      "Antinuclear antibody",
+      "ASO antibody",
+      "Heterophile antibody"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Latex agglutination test\" for rheumatoid factor detects:",
+    "options": [
+      "IgM antibody against IgG",
+      "IgG antibody against IgM",
+      "IgA antibody",
+      "IgE antibody"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Coombs test\" detects:",
+    "options": [
+      "Incomplete antibodies on red blood cells",
+      "Complete antibodies",
+      "Bacterial antigens",
+      "Viral antigens"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"ELISA test\" is based on:",
+    "options": [
+      "Enzyme-labeled antigen or antibody",
+      "Radioactive labeling",
+      "Fluorescent labeling",
+      "Complement fixation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Western blot\" technique detects:",
+    "options": [
+      "Specific proteins using antibodies",
+      "DNA sequences",
+      "RNA sequences",
+      "Lipids"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Southern blot\" detects:",
+    "options": [
+      "DNA sequences",
+      "RNA sequences",
+      "Proteins",
+      "Lipids"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Northern blot\" detects:",
+    "options": [
+      "RNA sequences",
+      "DNA sequences",
+      "Proteins",
+      "Lipids"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"PCR\" (Polymerase Chain Reaction) amplifies:",
+    "options": [
+      "DNA sequences",
+      "RNA sequences",
+      "Proteins",
+      "Lipids"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"RT-PCR\" is used to detect:",
+    "options": [
+      "RNA viruses by converting RNA to DNA",
+      "DNA viruses only",
+      "Bacteria only",
+      "Fungi only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Real-time PCR\" allows:",
+    "options": [
+      "Quantification of amplified DNA during amplification",
+      "End-point detection only",
+      "Protein detection",
+      "Antibody detection"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"RFLP\" (Restriction Fragment Length Polymorphism) is used for:",
+    "options": [
+      "Strain typing and epidemiological studies",
+      "Antibiotic sensitivity testing",
+      "Toxin detection",
+      "Antigen detection"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"PFGE\" (Pulsed-Field Gel Electrophoresis) is:",
+    "options": [
+      "Gold standard for bacterial strain typing",
+      "Used for virus isolation",
+      "Antibiotic susceptibility test",
+      "Serological test"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"MIC\" (Minimum Inhibitory Concentration) is:",
+    "options": [
+      "Lowest antibiotic concentration that inhibits visible bacterial growth",
+      "Lowest antibiotic concentration that kills bacteria",
+      "Highest antibiotic concentration tolerated",
+      "Average antibiotic concentration"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"MBC\" (Minimum Bactericidal Concentration) is:",
+    "options": [
+      "Lowest antibiotic concentration that kills 99.9% of bacteria",
+      "Lowest antibiotic concentration that inhibits growth",
+      "Highest antibiotic concentration",
+      "Average antibiotic concentration"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Kirby-Bauer disk diffusion test\" determines:",
+    "options": [
+      "Antibiotic susceptibility by measuring zone of inhibition",
+      "MIC value",
+      "MBC value",
+      "Bacterial identification"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"E-test\" combines:",
+    "options": [
+      "Disk diffusion and MIC determination",
+      "Broth dilution and agar dilution",
+      "PCR and ELISA",
+      "Gram stain and culture"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Beta-lactamase production can be detected by:",
+    "options": [
+      "Nitrocefin test",
+      "Gram stain",
+      "Catalase test",
+      "Coagulase test"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"ESBL\" (Extended Spectrum Beta-Lactamase) confers resistance to:",
+    "options": [
+      "Penicillins, cephalosporins, and aztreonam",
+      "Carbapenems only",
+      "Aminoglycosides only",
+      "Tetracyclines only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"MBL\" (Metallo-Beta-Lactamase) confers resistance to:",
+    "options": [
+      "Carbapenems (except aztreonam)",
+      "Penicillins only",
+      "Cephalosporins only",
+      "Aminoglycosides only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"KPC\" (Klebsiella pneumoniae carbapenemase) confers resistance to:",
+    "options": [
+      "All beta-lactams including carbapenems",
+      "Aminoglycosides only",
+      "Fluoroquinolones only",
+      "Tetracyclines only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"MRSA\" (Methicillin-Resistant Staphylococcus aureus) is resistant to:",
+    "options": [
+      "All beta-lactams due to mecA gene (PBP2a)",
+      "Vancomycin only",
+      "Aminoglycosides only",
+      "Macrolides only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"VRE\" (Vancomycin-Resistant Enterococci) has resistance genes:",
+    "options": [
+      "vanA, vanB, etc.",
+      "mecA",
+      "blaZ",
+      "ermB"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"VRSA\" (Vancomycin-Resistant Staphylococcus aureus) results from:",
+    "options": [
+      "Acquisition of vanA gene from enterococci",
+      "Mutation in mecA",
+      "Efflux pumps",
+      "Porin loss"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"CLSI\" (Clinical and Laboratory Standards Institute) provides:",
+    "options": [
+      "Guidelines for antibiotic susceptibility testing",
+      "Taxonomic classifications",
+      "Vaccine recommendations",
+      "Infection control guidelines"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Biosafety Level 4 (BSL-4) is required for:",
+    "options": [
+      "Ebola, Marburg, Lassa viruses",
+      "Mycobacterium tuberculosis",
+      "Staphylococcus aureus",
+      "E. coli"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Biosafety Level 3 (BSL-3) is required for:",
+    "options": [
+      "Mycobacterium tuberculosis, SARS-CoV",
+      "E. coli",
+      "Staphylococcus aureus",
+      "Candida albicans"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Koch's postulates\" are used to:",
+    "options": [
+      "Establish causal relationship between microbe and disease",
+      "Identify bacteria by Gram stain",
+      "Determine antibiotic sensitivity",
+      "Classify viruses"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Molecular Koch's postulates\" incorporate:",
+    "options": [
+      "Genes and virulence factors",
+      "Gram stain results",
+      "Culture characteristics",
+      "Antibiotic sensitivity"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Quorum sensing\" refers to:",
+    "options": [
+      "Bacterial cell-to-cell communication regulating gene expression",
+      "Antibiotic resistance mechanism",
+      "Spore formation",
+      "Capsule production"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Biofilm\" formation contributes to:",
+    "options": [
+      "Antibiotic resistance and persistence",
+      "Increased antibiotic susceptibility",
+      "Faster growth",
+      "Spore formation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Human Microbiome Project\" aims to:",
+    "options": [
+      "Characterize microbial communities in/on human body",
+      "Sequence all human genes",
+      "Develop new antibiotics",
+      "Create vaccines"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Probiotics\" are:",
+    "options": [
+      "Live microorganisms conferring health benefits",
+      "Antibiotics",
+      "Vaccines",
+      "Disinfectants"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Prebiotics\" are:",
+    "options": [
+      "Non-digestible food ingredients that stimulate beneficial bacteria",
+      "Live bacteria",
+      "Antibiotics",
+      "Vitamins"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Synbiotics\" combine:",
+    "options": [
+      "Probiotics and prebiotics",
+      "Two different antibiotics",
+      "Vaccine and adjuvant",
+      "Antifungal and antibacterial"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Bacteriocins\" are:",
+    "options": [
+      "Antibacterial proteins produced by bacteria",
+      "Viruses that infect bacteria",
+      "Antibiotics",
+      "Toxins"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Bacteriophages\" are:",
+    "options": [
+      "Viruses that infect bacteria",
+      "Bacteria that infect viruses",
+      "Antibiotics",
+      "Toxins"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Lysogenic conversion\" refers to:",
+    "options": [
+      "Acquisition of new traits by bacteria through phage integration",
+      "Phage replication and lysis",
+      "Spontaneous mutation",
+      "Conjugation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Transposons\" are:",
+    "options": [
+      "Mobile genetic elements that can move within genome",
+      "Plasmids",
+      "Bacteriophages",
+      "Ribosomes"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Integrons\" are:",
+    "options": [
+      "Gene capture systems that acquire gene cassettes",
+      "Mobile genetic elements",
+      "Plasmids",
+      "Transposons"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"CRISPR-Cas\" system in bacteria provides:",
+    "options": [
+      "Adaptive immunity against bacteriophages and plasmids",
+      "Antibiotic resistance",
+      "Toxin production",
+      "Spore formation"
+    ],
+    "correct": 0
+  }
+]

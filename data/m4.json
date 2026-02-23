@@ -1,0 +1,502 @@
+[
+  {
+    "question": "The resistance of bacteria to antibiotics is due to the presence of:",
+    "options": [
+      "Col-plasmid",
+      "Tox-plasmids",
+      "R-plasmid",
+      "Ent-plasmid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Antitoxic serum is used for:",
+    "options": [
+      "treatment of anthrax",
+      "treatment of tetanus",
+      "treatment of cholera",
+      "treatment of whooping cough"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Facultative intracellular parasites are:",
+    "options": [
+      "Bacilli",
+      "Clostridia",
+      "Neisseria",
+      "Chlamydia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Vaccine is used to prevent poliomyelitis:",
+    "options": [
+      "Salk vaccine",
+      "MMR",
+      "Toxoid",
+      "BCG"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The condition, when bacteria multiply in the blood, is called:",
+    "options": [
+      "Sepsis",
+      "Septicopyemia",
+      "Bacteremia",
+      "Viremia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Reinfection is called:",
+    "options": [
+      "Disease that occurs after a previous infection with a second infection with the same pathogen",
+      "Disease caused by human infection with the same pathogen before recovery",
+      "Return of the disease due to remaining pathogens in the body",
+      "Disease caused by infection with a new pathogen in the background of an unfinished initial infectious disease"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "For the treatment of herpes simplex virus infection is used:",
+    "options": [
+      "isoniazid",
+      "acyclovir",
+      "tubazid",
+      "rifampicin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For the treatment of intestinal dysbiosis, the following microbes are used, except:",
+    "options": [
+      "Bifidobacteria",
+      "Lactobacillus",
+      "Saccharomyces",
+      "Streptococcus"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For specific prevention of diphtheria is used:",
+    "options": [
+      "Attenuated vaccines",
+      "Toxoid",
+      "Recombinant vaccine",
+      "Killed vaccines"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is used for antibiotic sensitivity test?",
+    "options": [
+      "Agglutination test",
+      "PCR",
+      "ELISA",
+      "Disk-diffusion method"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Reservoir of urban rabies is:",
+    "options": [
+      "Cows",
+      "Dogs",
+      "Human beings",
+      "Horses"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Transduction is:",
+    "options": [
+      "Transferring of donor chromosome under the action of phage",
+      "DNA transfer through the cytoplasmic bridge",
+      "Transfer of information from donors to the recipient due to free DNA",
+      "Transcription"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What bacteria form spores?",
+    "options": [
+      "Causative agent of diphtheria",
+      "Causative agent of anthrax",
+      "Staphylococcus",
+      "Causative agent of typhus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Vaccines are used:",
+    "options": [
+      "For the prevention of infectious diseases",
+      "For the treatment of foodborne diseases",
+      "For the diagnosis of infectious diseases",
+      "For the prevention of dermatomycosis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Antitoxins are used for:",
+    "options": [
+      "the prevention of fungal infections",
+      "the treatment of viral infections",
+      "the treatment of infectious diseases",
+      "the prevention of dermatomycosis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What classes of immunoglobulins are formed in the acute stage of infectious disease?",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgM",
+      "IgG"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What statement about the properties of exotoxins is incorrect:",
+    "options": [
+      "By chemical nature - proteins",
+      "Highly toxic",
+      "Are used for toxoid production",
+      "Low in toxicity"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Methods of cultivation of obligate anaerobic bacteria:",
+    "options": [
+      "In the presence of CO2",
+      "In the presence of a small amount of oxygen",
+      "In the presence of oxygen",
+      "In the absence of oxygen"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Viruses differ from other microorganisms by:",
+    "options": [
+      "Presence of cell wall",
+      "Presence of RNA or DNA",
+      "Ability to grow on artificial media",
+      "Presence of flagella"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In a healthy person, the following organ do not contain bacteria:",
+    "options": [
+      "Stomach",
+      "Mouth",
+      "Eyes",
+      "Bladder"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What statement about the properties of endotoxins is not correct:",
+    "options": [
+      "By chemical nature - proteins",
+      "Low in toxicity",
+      "By chemical nature - LPS",
+      "Are able to cause fever"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Vaccine made from live microbes or viruses that have lost virulence factors but retained immunogenic properties:",
+    "options": [
+      "Toxoid",
+      "Attenuated vaccine",
+      "Molecular vaccine",
+      "Killed vaccine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For specific prevention of Tick-borne encephalitis is used:",
+    "options": [
+      "Immunoglobulin",
+      "Bacteriophages",
+      "Killed vaccine",
+      "Toxoid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "With respect to oxygen, the causative agent of gas gangrene is referred to:",
+    "options": [
+      "Aerobic",
+      "Obligate anaerobes",
+      "Facultative anaerobes",
+      "Aerotolerant"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Causative agent of botulism forms:",
+    "options": [
+      "Neurotoxin",
+      "Exfoliative toxin",
+      "Enterotoxin",
+      "Erythrogenic toxin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "For specific prevention of whooping cough vaccine is used:",
+    "options": [
+      "Sabin",
+      "DPT",
+      "MMR",
+      "BCG"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Transmission of anthrax causative agent NOT carried out by:",
+    "options": [
+      "Contact",
+      "Sexual Way",
+      "Alimentary way",
+      "Airborne dust"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Toxoid is prepared from:",
+    "options": [
+      "Exotoxin",
+      "Live bacteria",
+      "Endotoxin",
+      "Killed bacteria"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The carriers of the Lyme disease pathogen are:",
+    "options": [
+      "Lice",
+      "Fleas",
+      "Ticks",
+      "Mosquitoes"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which colonies form Escherichia on MacConkey's medium:",
+    "options": [
+      "Violet",
+      "Blue",
+      "Dark red with a metallic sheen",
+      "Colorless"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Properties of chlamydia:",
+    "options": [
+      "Do not have a cell wall",
+      "Optional intracellular parasites",
+      "Obligatory anaerobes",
+      "Obligatory intracellular parasites"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For the treatment of herpes infections apply:",
+    "options": [
+      "Metronidazole",
+      "Amphotericin B",
+      "Erythromycin",
+      "Acyclovir"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Specific prevention of mumps is carried out by:",
+    "options": [
+      "Live vaccine",
+      "Inactivated vaccine",
+      "Molecular vaccine",
+      "Not developed"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Under a microscope, you found bacteria with rod shape, rounded ends, stained in red color:",
+    "options": [
+      "Mycoplasma",
+      "Streptococcus",
+      "Staphylococcus aureus",
+      "Escherichia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Protozoa are stained by:",
+    "options": [
+      "Gram method",
+      "Romanovsky-Giemsa method",
+      "Ozheshko method",
+      "Ziehl-Neelsen staining method"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the morphology of the rabies virus:",
+    "options": [
+      "The oval form",
+      "Spherical shape",
+      "Bullet-shaped",
+      "Rod-shaped"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Under the microscope, you found cocci bean-shaped, stained in red color:",
+    "options": [
+      "Gonococcus",
+      "Bacillus",
+      "Klebsiella",
+      "Streptococcus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "For the staining of acid-fast bacteria, the method is used:",
+    "options": [
+      "Romanovsky-Giemsa method",
+      "Ziehl-Neelsen staining method",
+      "Gram method",
+      "Neisser method"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Capsule is detected by a negative staining method using:",
+    "options": [
+      "Romanovsky-Giemsa",
+      "Gram",
+      "Burri-Gins method (India ink)",
+      "Methylene blue"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Prokaryotes differ from eukaryotes by the following:",
+    "options": [
+      "Have a core",
+      "Do not have sterols in the cytoplasmic membrane",
+      "Have mitochondria, Golgi apparatus, endoplasmic reticulum",
+      "Have a nucleoid"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Spiral bacteria include:",
+    "options": [
+      "Mycobacterium",
+      "Staphylococci",
+      "Neisseria",
+      "Vibrio"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bacteria attach to the surface of cells using:",
+    "options": [
+      "Capsules",
+      "Flagella",
+      "Mesosomes",
+      "Pili"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Filamentous bacteria include:",
+    "options": [
+      "Micrococci",
+      "Mycobacterium",
+      "Vibrios",
+      "Campylobacter"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Spirochetes include:",
+    "options": [
+      "Micrococci",
+      "Actinomycetes",
+      "Vibrio",
+      "Treponema"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Staphylococci differ from streptococci in:",
+    "options": [
+      "Arrangement of cells",
+      "Relation to Gram staining",
+      "Relation to ambient oxygen",
+      "Spore formation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The cell wall is present in:",
+    "options": [
+      "Viruses",
+      "Vibrio",
+      "Prions",
+      "Mycoplasma"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bacteria having flagella:",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Neisseria gonorrhoeae",
+      "Staphylococcus aureus",
+      "Vibrio cholerae"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Method for the detection of capsules in bacteria:",
+    "options": [
+      "Romanovsky-Giemsa",
+      "Gram",
+      "Burri-Gins",
+      "Methylene blue"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bacteria having a spherical shape:",
+    "options": [
+      "Vibrio",
+      "Gonococci",
+      "Klebsiella",
+      "Mycobacterium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The immersion lens of microscope from other lenses is different in:",
+    "options": [
+      "Presence of the number 90, the presence of a black band",
+      "The presence of a blue strip",
+      "The presence of a red strip",
+      "The presence of the number 20"
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question": "For the treatment of diphtheria apply:",
+    "options": [
+      "Specific bacteriophages",
+      "Anatoxin",
+      "Sulfanilamides",
+      "Antitoxic serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Mycobacteria grow on media:",
+    "options": [
+      "Kitta-Tarozzi",
+      "Clauberg",
+      "Lowenstein-Jensen",
+      "MPA"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Morphological and staining properties of the causative agent of anthrax DO NOT include:",
+    "options": [
+      "Gram-positive rods arranged in a chain",
+      "Formation of a capsule",
+      "Gram-negative bacilli",
+      "Forms a centrally located spore whose diameter does not exceed the diameter of the cell"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For the cultivation of the causative agent of leprosy apply:",
+    "options": [
+      "Simple nutrient media",
+      "Elective media",
+      "Complex nutrient media",
+      "Susceptible animals"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The reservoir of the causative agent of anthrax is:",
+    "options": [
+      "A sick person",
+      "Bloodsucking insects",
+      "Cattle",
+      "Birds"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Transmission of anthrax causative agent is NOT carried out:",
+    "options": [
+      "Contact",
+      "The Sexual Way",
+      "Alimentary way",
+      "Airborne dust"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Antigens of the causative agent of anthrax in products from contaminated raw materials (fur, leather, wool), cadaveric material are detected by the reaction:",
+    "options": [
+      "Wasserman",
+      "Haddelson",
+      "Vidal",
+      "Ascoli"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The role of the microflora of a healthy person for the body, except:",
+    "options": [
+      "It has antagonistic properties against pathogenic microorganisms",
+      "It participates in the formation of lymphoid tissue",
+      "Prevention of infection",
+      "Protects the body from the effect of radiation"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For the treatment of intestinal dysbiosis, the following preparations are used, except:",
+    "options": [
+      "Bifidobacteria",
+      "Lactobacillus",
+      "Saccharomyces",
+      "Escherichia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Relapse is called:",
+    "options": [
+      "Disease that occurs after a previous infection with a second infection with the same pathogen",
+      "Disease caused by human infection with the same pathogen before recovery",
+      "Return of the disease due to remaining pathogens in the body",
+      "Disease caused by infection with a new pathogen in the background of an initial infection"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In the healthy person the following organs do not contain bacteria:",
+    "options": [
+      "Stomach",
+      "Lungs",
+      "Mouth",
+      "Eye"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Saccharolytic properties of bacteria are usually determined on a medium:",
+    "options": [
+      "MPA",
+      "Blood agar",
+      "Egg-yolk agar",
+      "Hiss"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Proteolytic properties of bacteria are usually determined on media:",
+    "options": [
+      "Meat peptone broth",
+      "Meat peptone agar",
+      "Kitta-Tarozzi",
+      "Gelatin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What statement about the properties of exotoxins is incorrect:",
+    "options": [
+      "By chemical nature - proteins",
+      "Low in toxicity",
+      "Possess organotropy",
+      "Highly toxic"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What statement about the properties of endotoxins is incorrect:",
+    "options": [
+      "Less toxic",
+      "Highly toxic",
+      "By chemical nature - lipopolysaccharides",
+      "Thermostable"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Reinfection is called:",
+    "options": [
+      "Disease that occurs after a previous infection with a second infection with the same pathogen",
+      "Disease caused by human infection with the same pathogen before recovery",
+      "Return of the disease due to remaining pathogens in the body",
+      "Disease caused by infection with a new pathogen in the background of an initial infection"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Under a microscope, you found bacteria with rod shape, rounded ends, stained in red color:",
+    "options": [
+      "Mycoplasma",
+      "Streptococcus",
+      "Staphylococcus aureus",
+      "Escherichia coli"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Protozoa are stained by:",
+    "options": [
+      "Gram method",
+      "Romanovsky-Giemsa method",
+      "Ozheshko method",
+      "Ziehl-Neelsen staining method"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the morphology of the rabies virus:",
+    "options": [
+      "The oval form",
+      "Spherical shape",
+      "Bullet-shaped",
+      "Rod-shaped"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Under the microscope, you found cocci bean-shaped, stained in red color:",
+    "options": [
+      "Gonococcus",
+      "Bacillus",
+      "Klebsiella",
+      "Streptococcus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "For the staining of acid-fast bacteria, the method is used:",
+    "options": [
+      "Romanovsky-Giemsa method",
+      "Ziehl-Neelsen staining method",
+      "Gram method",
+      "Neisser method"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Capsule is detected by a negative staining method using:",
+    "options": [
+      "Romanovsky-Giemsa",
+      "Gram",
+      "Burri-Gins",
+      "Methylene blue"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Prokaryotes differ from eukaryotes by the following:",
+    "options": [
+      "Have a core",
+      "Do not have sterols in the cytoplasmic membrane",
+      "Have mitochondria, Golgi apparatus, endoplasmic reticulum",
+      "Have a nucleoid"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Spiral bacteria include:",
+    "options": [
+      "Mycobacterium",
+      "Staphylococci",
+      "Neisseria",
+      "Vibrio"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bacteria attach to the surface of cells using:",
+    "options": [
+      "Capsules",
+      "Flagella",
+      "Mesosomes",
+      "Pili"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Filamentous bacteria include:",
+    "options": [
+      "Micrococci",
+      "Mycobacterium",
+      "Vibrios",
+      "Campylobacter"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Spirochetes include:",
+    "options": [
+      "Micrococci",
+      "Actinomycetes",
+      "Vibrio",
+      "Treponema"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Staphylococci differ from streptococci in:",
+    "options": [
+      "Arrangement of cells",
+      "Relation to Gram staining",
+      "Relation to ambient oxygen",
+      "Spore formation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The cell wall is present in:",
+    "options": [
+      "Viruses",
+      "Vibrio",
+      "Prions",
+      "Mycoplasma"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bacteria having flagella:",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Neisseria gonorrhoeae",
+      "Staphylococcus aureus",
+      "Vibrio cholerae"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Method for the detection of capsules in bacteria:",
+    "options": [
+      "Romanovsky-Giemsa",
+      "Gram",
+      "Burri-Gins",
+      "Methylene blue"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Bacteria having a spherical shape:",
+    "options": [
+      "Vibrio",
+      "Gonococci",
+      "Klebsiella",
+      "Mycobacterium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The immersion lens of microscope from other lenses is different in:",
+    "options": [
+      "Presence of the number 90, the presence of a black band",
+      "The presence of a blue strip",
+      "The presence of a red strip",
+      "The presence of the number 20"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Specific prevention of diphtheria is carried out with the vaccine:",
+    "options": [
+      "STI",
+      "DPT",
+      "BCG",
+      "M-21"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For the treatment of tetanus use:",
+    "options": [
+      "Specific bacteriophages",
+      "Anatoxin",
+      "Isoniazid",
+      "Antitoxic serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The causative agent of botulism is:",
+    "options": [
+      "C. botulinum",
+      "C. tetani",
+      "C. perfringens",
+      "C. difficile"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Exotoxin of causative agent of botulism is revealed by:",
+    "options": [
+      "In the agglutination reaction",
+      "In biological method",
+      "On glucose-blood agar",
+      "On Kitta-Tarozzi medium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Staphylococcus do not release toxins:",
+    "options": [
+      "Exfoliatins",
+      "Endotoxins",
+      "Leukocidin",
+      "Enterotoxins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "C. botulinum secretes the following toxin:",
+    "options": [
+      "Hemolysin",
+      "Dermonecrotoxin",
+      "Leukocidin",
+      "Neurotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For the prevention of hepatitis B is used:",
+    "options": [
+      "Immunoglobulin",
+      "Attenuated vaccine",
+      "Recombinant vaccine",
+      "Killed vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The main route of transmission of hepatitis B virus:",
+    "options": [
+      "Water",
+      "Parenteral",
+      "Food",
+      "Air-dust"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For the prevention of hepatitis D is used:",
+    "options": [
+      "Interferon",
+      "Inactivated vaccine",
+      "Vaccine containing HBs antigen",
+      "Live vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For the prevention of poliomyelitis, everything is used except:",
+    "options": [
+      "Inactivated vaccine",
+      "Toxoid",
+      "Live vaccine",
+      "Water quality control"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rabies treatment:",
+    "options": [
+      "Rabies immune serum",
+      "Vaccine",
+      "Human rabies immune globulin",
+      "Absent"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In which room of pharmacies is it permissible to detect Staphylococcus aureus in the air:",
+    "options": [
+      "Washing",
+      "Assistant",
+      "Aseptic unit",
+      "Service Hall"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ways of penetration into the human body of botulinum causative agent:",
+    "options": [
+      "Injection",
+      "Sexual contact",
+      "Transplacental",
+      "Airborne droplets"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pathogen botulism forms:",
+    "options": [
+      "Neurotoxin",
+      "Dermatoxin",
+      "Enterotoxin",
+      "Erythrogenin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The main pathogens of streptococcal infections are:",
+    "options": [
+      "S. pyogenes",
+      "S. aureus",
+      "S. agalactiae",
+      "S. epidermidis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "S. pyogenes produces the following toxins:",
+    "options": [
+      "Neurotoxin",
+      "Dermatonecrotoxin",
+      "Enterotoxin",
+      "Erythrogenin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Meningococci attach to the mucous membrane of the nasopharynx with the help of:",
+    "options": [
+      "Flagella",
+      "Capsule",
+      "Pili",
+      "Spore"
+    ],
+    "correct": 2
+  }
+]

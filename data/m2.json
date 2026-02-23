@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Chinese letter arrangement is seen in:",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Chlamydia trachomatis",
+      "Mycobacterium tuberculosis",
+      "Mycobacterium leprae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient is suspected to have typhoid fever since 4 days. Which of the following would be the best investigation?",
+    "options": [
+      "Widal test",
+      "Blood culture",
+      "Stool culture",
+      "Urine culture"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ethylene oxide can be used for sterilization of:",
+    "options": [
+      "Plastic syringes",
+      "Cannula",
+      "Catheter",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Peritrichous arrangement refers to",
+    "options": [
+      "Tufts of flagella at one pole",
+      "Single flagellum at one pole",
+      "Flagella all around the cell",
+      "Flagella at both poles"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is seen in dark field microscopy?",
+    "options": [
+      "Chlamydia",
+      "Spirochaetes",
+      "Vibrio",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Endotoxin is:",
+    "options": [
+      "Polysaccharide",
+      "Lipopolysaccharide",
+      "Lipids",
+      "Proteins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Culture media used for Corynebacterium diphtheriae is:",
+    "options": [
+      "Potassium tellurite media",
+      "Loeffler's serum slope",
+      "L media",
+      "MacConkey agar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "All of the following are virulence factors produced by Streptococcus pneumoniae EXCEPT",
+    "options": [
+      "Pneumolysin",
+      "Capsule",
+      "Exfoliative toxin",
+      "Autolysin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following disease is transmitted by uncooked flesh?",
+    "options": [
+      "Diphtheria",
+      "Anthrax",
+      "Tuberculosis",
+      "Whooping cough"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Secondary infection refers to",
+    "options": [
+      "Subsequent infections by the same parasite",
+      "A new parasite setting up an infection when resistance is lowered by a pre-existing infectious disease",
+      "Infection acquired from another host or external source",
+      "Infection of a localised site producing generalised effects"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Multinucleated giant cells are seen in smear from the lesions of:",
+    "options": [
+      "Rabies virus",
+      "HIV",
+      "Poliovirus",
+      "Herpes simplex virus"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is NOT a motile organism?",
+    "options": [
+      "Pseudomonas",
+      "Treponema",
+      "Shigella",
+      "Listeria"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Metachromatic granules are best stained with:",
+    "options": [
+      "Neisser's stain",
+      "Gram's stain",
+      "Ziehl-Neelsen stain",
+      "India ink preparation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Gas gangrene bacilli is:",
+    "options": [
+      "Facultative anaerobe",
+      "Obligate anaerobe",
+      "Obligate aerobe",
+      "Facultative aerobe"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "All of the following are true for Yersinia pestis EXCEPT:",
+    "options": [
+      "Gram positive",
+      "Non motile",
+      "Non sporing",
+      "Pleomorphic"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Gram negative diplococcus are:",
+    "options": [
+      "Neisseria",
+      "Pseudomonas",
+      "Treponema pallidum",
+      "Chlamydia trachomatis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Prokaryotes differ from eukaryotes by the following:",
+    "options": [
+      "Do not have sterols in the cytoplasmic membrane",
+      "Have a nucleus",
+      "Have a nucleoid",
+      "Have mitochondria, Golgi apparatus, endoplasmic reticulum"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Flexuous spiral forms are seen in",
+    "options": [
+      "Corynebacteria",
+      "Chlamydia",
+      "Mycoplasma",
+      "Spirochetes"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is the main route of transmission of HAV?",
+    "options": [
+      "Breastfeeding",
+      "Transfusion of blood during viremic phase",
+      "Feco-oral",
+      "Sexual"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "All of the following are features of B. anthracis EXCEPT",
+    "options": [
+      "Motile",
+      "Does not grow at 45°C",
+      "Capsulated",
+      "Develop R type colonies"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The following drugs are used for influenza EXCEPT",
+    "options": [
+      "Maraviroc",
+      "Oseltamivir",
+      "Amantadine",
+      "Peramivir"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements is true about Vibrio cholerae?",
+    "options": [
+      "Growth better in an alkaline pH",
+      "Cocci-shaped bacilli",
+      "Nutritionally fastidious",
+      "Can grow at 4°C"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is responsible for the transfer of drug resistance in bacteria?",
+    "options": [
+      "None of the above",
+      "F factor",
+      "R factor",
+      "Colicinogenic factor"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Phage mediated transfer of genetic material across bacterium is known as:",
+    "options": [
+      "Transcription",
+      "Translation",
+      "Transformation",
+      "Transduction"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "All of the following are toxin-mediated Staphylococcus aureus diseases EXCEPT",
+    "options": [
+      "Food poisoning",
+      "Scaled skin syndrome",
+      "Toxic shock syndrome",
+      "Intracranial thrombophlebitis"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The first scientist to observe bacteria and other microscopic organisms was:",
+    "options": [
+      "Sydenham",
+      "Virchow",
+      "Harvey",
+      "Van Leeuwenhoek"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Dark field microscopy uses:",
+    "options": [
+      "reflected light",
+      "electron beam",
+      "light beam",
+      "refractive index"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Spirochetes are:",
+    "options": [
+      "coma shaped",
+      "flexuous spiral form",
+      "rigid spiral form",
+      "rod shaped"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "All are DNA viruses EXCEPT:",
+    "options": [
+      "Varicella zoster virus",
+      "Influenza virus",
+      "Hepatitis B virus",
+      "Herpes simplex virus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Best medium to grow anaerobic bacteria exclusively is:",
+    "options": [
+      "Blood agar",
+      "Robertson's cooked meat broth",
+      "Thioglycollate medium",
+      "Sabouraud Dextrose agar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Gram positive cell wall predominantly consists of:",
+    "options": [
+      "Core polysaccharide",
+      "Lipopolysaccharide",
+      "Peptidoglycan",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a negative staining method?",
+    "options": [
+      "Gram staining",
+      "Quellung's reaction",
+      "Indian ink preparation",
+      "Auramine rhodamine stain"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "All of the following is true regarding HIV virus EXCEPT:",
+    "options": [
+      "Belongs to the subgroup lentivirus",
+      "Double stranded DNA virus",
+      "Characterised by the presence of reverse transcriptase enzyme",
+      "Acts on CD4 cells"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Effective mode of sterilization is:",
+    "options": [
+      "Hot water",
+      "Steam under pressure",
+      "Sunlight",
+      "Drying"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Vibrio:",
+    "options": [
+      "coma shaped",
+      "flexuous spiral form",
+      "rigid spiral form",
+      "rod shaped"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amphitrichous:",
+    "options": [
+      "single or tuft on both sides",
+      "surrounded by lateral flagella",
+      "single flagella on one side",
+      "tuft of flagella on one side"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Leucocidin is produced by:",
+    "options": [
+      "Streptococcus",
+      "Staphylococcus",
+      "Pseudomonas",
+      "Escherichia coli"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Negri bodies is suggestive of:",
+    "options": [
+      "Measles",
+      "Rabies",
+      "HIV",
+      "Hepatitis B"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Candida can be grown on:",
+    "options": [
+      "Sabouraud dextrose agar",
+      "Lowenstein-Jensen media",
+      "Cetrimide agar",
+      "Buffered charcoal yeast extract agar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Clostridium botulinum toxin mode of action is by:",
+    "options": [
+      "Presynaptic block",
+      "Postsynaptic block",
+      "Competitive inhibition of acetylcholine",
+      "Destruction of acetylcholine"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "All are dimorphic fungi EXCEPT:",
+    "options": [
+      "Blastomyces",
+      "Cryptococcus",
+      "Histoplasma",
+      "Paracoccidioides"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Thiosulfate-citrate-bile salts-sucrose agar (TCBS) media is used for:",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus",
+      "Vibrio cholerae",
+      "Clostridium tetani"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Culture medium for cultivation of mycobacterium is:",
+    "options": [
+      "Ludlam's medium",
+      "Loeffler's serum",
+      "Thayer-Martin medium",
+      "Lowenstein-Jensen medium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Mechanism of action of cholera toxin:",
+    "options": [
+      "Increase in c-AMP",
+      "Decrease in c-AMP",
+      "Activates Na+ K+ ATPase",
+      "Inhibit Na+K+ATPase"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is NOT prion associated disease?",
+    "options": [
+      "Scrapie",
+      "Kuru",
+      "Creutzfeldt-Jakob disease",
+      "SSPE (Subacute sclerosing panencephalitis)"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Phage mediated transfer of genetic material across bacterium is known as:",
+    "options": [
+      "Transcription",
+      "Transformation",
+      "Translation",
+      "Transduction"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For the treatment of botulism is used:",
+    "options": [
+      "bacteriophage",
+      "antitoxic serum",
+      "interferon",
+      "toxoid"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Antiseptic is:",
+    "options": [
+      "Destruction measures of microbes in the pathological lesions, wound, etc.",
+      "Destruction and removal of infectious agents from environmental objects",
+      "Prevention of contamination of objects or wounds by germs",
+      "Complete destruction of microbes and spores from the object"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "An antibiotic that inhibit proteins production:",
+    "options": [
+      "nystatin",
+      "rifampicin",
+      "penicillin",
+      "tetracycline"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "All antibiotics are aminoglycosides, except:",
+    "options": [
+      "erythromycin",
+      "kanamycin",
+      "gentamycin",
+      "streptomycin"
+    ],
+    "correct": 0
+  }
+]

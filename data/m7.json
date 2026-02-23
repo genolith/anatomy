@@ -1,0 +1,502 @@
+[
+  {
+    "question": "For treatment of meningococcal infection apply:",
+    "options": [
+      "Specific bacteriophages",
+      "Nystatin",
+      "Specific immunoglobulin",
+      "Penicillins"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The cultural properties of staphylococci include everything except:",
+    "options": [
+      "Obligate anaerobes grow on simple nutrient media",
+      "Pigmented S-colonies",
+      "As an elective medium, Egg-salt agar is used",
+      "On liquid media give a uniform turbidity"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Staphylococci produce exotoxins, except:",
+    "options": [
+      "Enterotoxin",
+      "Exfoliatin",
+      "Erythrogenin",
+      "Leucocidin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The main factor of pathogenicity of gonococci is:",
+    "options": [
+      "Exfoliatin",
+      "Erythrogenin",
+      "Leucocidin",
+      "Endotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Morphological and staining properties of gonococci include:",
+    "options": [
+      "Gram-positive diplococci of the lance form",
+      "Spore formation",
+      "Gram-negative diplococci of the bean-shape form",
+      "Mobility"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The causative agent of diphtheria is:",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Clostridium diphtheriae",
+      "Neisseria diphtheriae",
+      "Bacillus diphtheriae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "For specific prevention of diphtheria was used:",
+    "options": [
+      "SABIN",
+      "DPT",
+      "MMR",
+      "BCG"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Specific nutrient media are media:",
+    "options": [
+      "Used to study the biochemical properties of bacteria",
+      "Designed to isolate most species of bacteria",
+      "Designed for the cultivation of bacteria",
+      "Designed to isolate certain types of bacteria, in which the growth of other types of bacteria is suspended or slowed down"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Growth of bacteria on liquid nutrient media is manifested as follows, except:",
+    "options": [
+      "Uniform turbidity",
+      "Formation of S- and R-type colonies",
+      "Film on the surface of the medium",
+      "Sediment on the bottom and wall of the test tube"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Saccharolytic properties of bacteria - this ability:",
+    "options": [
+      "Produce indole",
+      "Grow on liquid nutrient medium with sugars, forming acidic and gaseous products",
+      "Liquefy gelatin",
+      "Produce hydrogen sulphide"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Proteolytic properties of bacteria - this ability:",
+    "options": [
+      "Break down proteins, polypeptides and amino acids",
+      "Ferment sugar",
+      "Split amino acids to form indole and hydrogen sulphide",
+      "Split polyhydric alcohols"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Obligate-anaerobic bacteria are:",
+    "options": [
+      "Bacillus",
+      "Clostridium",
+      "Mycobacterium",
+      "Vibrio"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Elective nutrient media are media:",
+    "options": [
+      "Used to study the biochemical properties of bacteria",
+      "Designed to isolate most species of bacteria",
+      "Designed for the cultivation of bacteria",
+      "Designed to isolate certain types of bacteria, in which the growth of other types of bacteria is suspended or slowed down"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "An elective nutrient medium for staphylococci is the environment:",
+    "options": [
+      "Endo",
+      "Meat peptone agar",
+      "Egg-salt agar",
+      "Peptone water"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Differential-diagnostic media are:",
+    "options": [
+      "Inhibiting the growth of certain microbes and promoting the growth of others",
+      "Allowing to determine the enzymatic properties of bacteria",
+      "Containing pieces of internal organs and tissues",
+      "Used for cultivation of fastidious microbes"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In a Pasteur oven, dry heat is sterilized:",
+    "options": [
+      "Disposable syringes",
+      "Basic nutrient media",
+      "Glass and metal products",
+      "Waste material"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Spores of bacteria die at:",
+    "options": [
+      "Prolonged drying",
+      "Pasteurization",
+      "Exposure to ultraviolet rays",
+      "Autoclaving"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Asepsis is:",
+    "options": [
+      "Destruction of microbes in the pathological focus",
+      "Destruction and removal of infectious agents from environmental objects",
+      "Prevention of contamination of objects or wounds by germs",
+      "Complete destruction of microbes from the object"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Methods of cultivation of obligate aerobic bacteria:",
+    "options": [
+      "In the absence of oxygen",
+      "In the presence of CO2",
+      "In the presence of a small amount of oxygen",
+      "In the presence of oxygen"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "To differential-diagnostic include the following media, except:",
+    "options": [
+      "Endo",
+      "Hiss media with sugars",
+      "Meat peptone broth",
+      "MacConkey agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Methods of cultivation of obligate anaerobic bacteria:",
+    "options": [
+      "In the absence of oxygen",
+      "In the presence of CO2",
+      "In the presence of a small amount of oxygen",
+      "In the presence of oxygen"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which method of sterilization is not physical:",
+    "options": [
+      "Gamma-ray sterilization",
+      "Sterilization in flame",
+      "Sterilization with ultraviolet rays",
+      "Gas sterilization"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Tetanus is caused by:",
+    "options": [
+      "C. nosy",
+      "C. tetani",
+      "C. perfringens",
+      "C. botulinum"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The causative agent of streptococcal infection is:",
+    "options": [
+      "S. pyogenes",
+      "S. aureus",
+      "S. sonnei",
+      "S. agalactiae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The cultural properties of causative agent of botulism is:",
+    "options": [
+      "Aerobic, grows on simple nutrient media",
+      "Strict anaerobic growth on Kitta-Tarozzi medium",
+      "Aerobic, grows only on complex nutrient media",
+      "Elective medium is Hiss"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Scarlet fever is caused by streptococcus releasing toxin:",
+    "options": [
+      "Erythrogenic",
+      "Hemolytic",
+      "Dermonecrotoxin",
+      "Neurotoxin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The main pathogenic factor of the causative agent of diphtheria is associated with:",
+    "options": [
+      "Adhesion",
+      "Toxicity",
+      "Aggression",
+      "Colonization"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For the treatment of diphtheria, use:",
+    "options": [
+      "Specific bacteriophage",
+      "Ethambutol",
+      "Anatoxin",
+      "Antitoxic serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The main factor of pathogenicity of gonococcal is:",
+    "options": [
+      "Exfoliatin",
+      "Erythrogenin",
+      "Leucocidin",
+      "Endotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Meningococcal infection manifests itself in all forms, except:",
+    "options": [
+      "Carrier",
+      "Bacteremia",
+      "Nasopharyngitis",
+      "Food poisoning"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Lethal outcome for anthrax infection is due to:",
+    "options": [
+      "Spore",
+      "Anthraxin",
+      "Endotoxin",
+      "Exotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The main pathogens of streptococcal infections are:",
+    "options": [
+      "S. pyogenes",
+      "S. aureus",
+      "S. agalactiae",
+      "S. epidermidis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Prevention of tuberculosis includes:",
+    "options": [
+      "Use of MMR vaccine",
+      "Use of tuberculin",
+      "Use of live BCG vaccine",
+      "Use of killed BCG vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For the treatment of diphtheria apply:",
+    "options": [
+      "Specific bacteriophages",
+      "Anatoxin",
+      "Sulfanilamides",
+      "Antitoxic serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Mycobacteria grow on media:",
+    "options": [
+      "Kitta-Tarozzi",
+      "Clauberg",
+      "Lowenstein-Jensen",
+      "MPA"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Morphological and staining properties of the causative agent of anthrax DO NOT include:",
+    "options": [
+      "Gram-positive rods in chains",
+      "Formation of a capsule",
+      "Gram-negative bacilli",
+      "Central spore not exceeding cell diameter"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For the cultivation of the causative agent of leprosy apply:",
+    "options": [
+      "Simple nutrient media",
+      "Elective media",
+      "Complex nutrient media",
+      "Susceptible animals"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The reservoir of the causative agent of anthrax is:",
+    "options": [
+      "A sick person",
+      "Bloodsucking insects",
+      "Cattle",
+      "Birds"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Transmission of anthrax causative agent is NOT carried out:",
+    "options": [
+      "Contact",
+      "Sexual way",
+      "Alimentary way",
+      "Airborne dust"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Antigens of the causative agent of anthrax in products from contaminated raw materials are detected by the reaction:",
+    "options": [
+      "Wasserman",
+      "Haddelson",
+      "Vidal",
+      "Ascoli"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The role of the microflora of a healthy person for the body, except:",
+    "options": [
+      "Antagonistic against pathogens",
+      "Participates in lymphoid tissue formation",
+      "Prevents infection",
+      "Protects from radiation"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For the treatment of intestinal dysbiosis, the following preparations are used, except:",
+    "options": [
+      "Bifidobacteria",
+      "Lactobacillus",
+      "Saccharomyces",
+      "Escherichia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In the healthy person the following organs do not contain bacteria:",
+    "options": [
+      "Stomach",
+      "Lungs",
+      "Mouth",
+      "Eye"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Saccharolytic properties of bacteria are usually determined on a medium:",
+    "options": [
+      "MPA",
+      "Blood agar",
+      "Egg-yolk agar",
+      "Hiss"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Proteolytic properties of bacteria are usually determined on media:",
+    "options": [
+      "Meat peptone broth",
+      "Meat peptone agar",
+      "Kitta-Tarozzi",
+      "Gelatin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What statement about the properties of exotoxins is incorrect:",
+    "options": [
+      "By chemical nature - proteins",
+      "Low in toxicity",
+      "Possess organotropy",
+      "Highly toxic"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What statement about the properties of endotoxins is incorrect:",
+    "options": [
+      "Less toxic",
+      "Highly toxic",
+      "By chemical nature - lipopolysaccharides",
+      "Thermostable"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Resistance is called:",
+    "options": [
+      "Disease after previous infection with same pathogen",
+      "Disease caused by infection before recovery",
+      "Return of disease due to remaining pathogens",
+      "Disease caused by new pathogen during initial infection"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The causative agent of diphtheria is:",
+    "options": [
+      "Gram-positive cocci",
+      "Gram-negative cocci",
+      "Gram-positive bacilli",
+      "Gram-negative bacilli"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The main route of transmission of hepatitis A virus:",
+    "options": [
+      "Parenteral",
+      "Fecal-oral",
+      "Sexual",
+      "Airborne"
+    ],
+    "correct": 1
+  }
+]

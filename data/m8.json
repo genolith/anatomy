@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Causative agent of diphtheria is:",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Klebsiella diphtheriae",
+      "Mycobacterium diphtheriae",
+      "Streptococcus diphtheriae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Diphtheria toxin mechanism of action:",
+    "options": [
+      "Inhibits protein synthesis by ADP-ribosylation of EF-2",
+      "Inhibits cell wall synthesis",
+      "Damages cell membranes",
+      "Activates adenylate cyclase"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Schick test is used for:",
+    "options": [
+      "Diagnosis of diphtheria",
+      "Determination of susceptibility to diphtheria",
+      "Diagnosis of scarlet fever",
+      "Diagnosis of tetanus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Elek's test is used for:",
+    "options": [
+      "Detection of diphtheria toxin production",
+      "Identification of C. diphtheriae",
+      "Antibiotic sensitivity testing",
+      "Toxoid potency testing"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pseudomembrane in diphtheria is composed of:",
+    "options": [
+      "Fibrin, dead cells, and bacteria",
+      "Pure bacterial culture",
+      "Pus and leukocytes",
+      "Only fibrin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pertussis is caused by:",
+    "options": [
+      "Bordetella pertussis",
+      "Haemophilus influenzae",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The medium used for isolation of Bordetella pertussis is:",
+    "options": [
+      "Bordet-Gengou medium",
+      "Lowenstein-Jensen medium",
+      "Sabouraud's agar",
+      "MacConkey agar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The stage of whooping cough with the highest infectivity is:",
+    "options": [
+      "Catarrhal stage",
+      "Paroxysmal stage",
+      "Convalescent stage",
+      "All stages equal"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The cough plate method is used for diagnosis of:",
+    "options": [
+      "Pertussis",
+      "Tuberculosis",
+      "Diphtheria",
+      "Pneumonia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Legionella pneumophila stains as:",
+    "options": [
+      "Gram-negative bacillus",
+      "Gram-positive bacillus",
+      "Gram-negative coccus",
+      "Acid-fast bacillus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The medium for Legionella culture is:",
+    "options": [
+      "Buffered charcoal yeast extract agar (BCYE)",
+      "Lowenstein-Jensen medium",
+      "Sabouraud's agar",
+      "Blood agar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pontiac fever is caused by:",
+    "options": [
+      "Legionella pneumophila",
+      "Coxiella burnetii",
+      "Mycoplasma pneumoniae",
+      "Chlamydia psittaci"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pseudomonas aeruginosa produces which pigment?",
+    "options": [
+      "Pyocyanin",
+      "Pyoverdin",
+      "Pyorubin",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The characteristic fruity odor of Pseudomonas is due to:",
+    "options": [
+      "Aminoacetophenone",
+      "Pyocyanin",
+      "Exotoxin A",
+      "Endotoxin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pseudomonas aeruginosa is resistant to many antibiotics due to:",
+    "options": [
+      "Efflux pumps",
+      "Porin mutations",
+      "Beta-lactamase production",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Brucella is transmitted by:",
+    "options": [
+      "Ingestion of unpasteurized milk",
+      "Direct contact with infected animals",
+      "Inhalation",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The genus Brucella includes all except:",
+    "options": [
+      "B. abortus",
+      "B. melitensis",
+      "B. suis",
+      "B. pertussis"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The most virulent species of Brucella for humans is:",
+    "options": [
+      "B. melitensis",
+      "B. abortus",
+      "B. suis",
+      "B. canis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Francisella tularensis is transmitted by:",
+    "options": [
+      "Tick bites",
+      "Handling infected animals",
+      "Ingestion of contaminated water",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Yersinia pestis is transmitted by:",
+    "options": [
+      "Flea bites",
+      "Direct contact",
+      "Inhalation",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The \"bipolar staining\" appearance is characteristic of:",
+    "options": [
+      "Yersinia pestis",
+      "Escherichia coli",
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pasteurella multocida is commonly associated with:",
+    "options": [
+      "Cat and dog bites",
+      "Rat bites",
+      "Mosquito bites",
+      "Tick bites"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Haemophilus influenzae requires which growth factors?",
+    "options": [
+      "X and V factors",
+      "Only X factor",
+      "Only V factor",
+      "No special factors"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The capsule of H. influenzae type b is composed of:",
+    "options": [
+      "Polyribosyl ribitol phosphate (PRP)",
+      "Hyaluronic acid",
+      "Polysaccharide",
+      "Protein"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Satellite phenomenon is seen with:",
+    "options": [
+      "Haemophilus influenzae growing near Staphylococcus aureus",
+      "Streptococcus pneumoniae",
+      "Neisseria meningitidis",
+      "Escherichia coli"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chancroid is caused by:",
+    "options": [
+      "Haemophilus ducreyi",
+      "Treponema pallidum",
+      "Klebsiella granulomatis",
+      "Chlamydia trachomatis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Klebsiella pneumoniae is characterized by:",
+    "options": [
+      "Large mucoid colonies",
+      "Prominent capsule",
+      "Causes pneumonia",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Proteus species are known for:",
+    "options": [
+      "Swarming motility",
+      "Urease production",
+      "Phenylalanine deaminase production",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Morganella morganii is a member of which tribe?",
+    "options": [
+      "Proteeae",
+      "Klebsielleae",
+      "Escherichieae",
+      "Salmonelleae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Serratia marcescens produces which pigment?",
+    "options": [
+      "Prodigiosin",
+      "Pyocyanin",
+      "Pyoverdin",
+      "Violacein"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Aeromonas hydrophila is associated with:",
+    "options": [
+      "Diarrhea",
+      "Wound infections",
+      "Septicemia in immunocompromised",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Plesiomonas shigelloides resembles which organism biochemically?",
+    "options": [
+      "Shigella",
+      "Escherichia",
+      "Salmonella",
+      "Vibrio"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Campylobacter jejuni grows best at:",
+    "options": [
+      "42°C (microaerophilic)",
+      "37°C (anaerobic)",
+      "25°C (aerobic)",
+      "30°C (capnophilic)"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The characteristic darting motility of Campylobacter is seen with:",
+    "options": [
+      "Darkfield microscopy",
+      "Gram stain",
+      "Acid-fast stain",
+      "Flagella stain"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Helicobacter pylori produces which enzyme to survive in stomach?",
+    "options": [
+      "Urease",
+      "Catalase",
+      "Oxidase",
+      "Coagulase"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Urea breath test is used to detect:",
+    "options": [
+      "Helicobacter pylori",
+      "Campylobacter jejuni",
+      "Mycobacterium tuberculosis",
+      "Clostridium difficile"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Vibrio cholerae serotype O139 is also known as:",
+    "options": [
+      "Bengal strain",
+      "Classical strain",
+      "El Tor strain",
+      "Philippine strain"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The cholera toxin gene is transferred by:",
+    "options": [
+      "Bacteriophage CTXφ",
+      "Plasmid",
+      "Transposon",
+      "Conjugation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"shooting star\" motility of Vibrio cholerae is best seen in:",
+    "options": [
+      "Hanging drop preparation",
+      "Gram stain",
+      "Acid-fast stain",
+      "India ink preparation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Alkaline peptone water (pH 8.5) is used for enrichment of:",
+    "options": [
+      "Vibrio cholerae",
+      "Salmonella typhi",
+      "Shigella dysenteriae",
+      "E. coli O157"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "TCBS agar contains which sugar for differentiating Vibrio species?",
+    "options": [
+      "Sucrose",
+      "Lactose",
+      "Glucose",
+      "Mannitol"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Halophilic vibrio that causes wound infections and septicemia is:",
+    "options": [
+      "Vibrio vulnificus",
+      "Vibrio parahaemolyticus",
+      "Vibrio alginolyticus",
+      "Vibrio fluvialis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Vibrio parahaemolyticus causes:",
+    "options": [
+      "Gastroenteritis from raw seafood",
+      "Wound infections",
+      "Septicemia",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The Kanagawa phenomenon in V. parahaemolyticus refers to:",
+    "options": [
+      "Beta-hemolysis on Wagatsuma agar",
+      "Capsule production",
+      "Spore formation",
+      "Motility"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Aeromonas and Plesiomonas are associated with:",
+    "options": [
+      "Diarrhea",
+      "Wound infections",
+      "Septicemia",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is oxidase-positive?",
+    "options": [
+      "Vibrio cholerae",
+      "Escherichia coli",
+      "Salmonella typhi",
+      "Shigella dysenteriae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The major reservoir of pathogenic E. coli O157:H7 is:",
+    "options": [
+      "Cattle",
+      "Pigs",
+      "Chickens",
+      "Humans"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "E. coli O157:H7 does NOT ferment:",
+    "options": [
+      "Sorbitol",
+      "Lactose",
+      "Glucose",
+      "Mannitol"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Shiga toxin produced by E. coli O157:H7 is similar to toxin of:",
+    "options": [
+      "Shigella dysenteriae type 1",
+      "Vibrio cholerae",
+      "Clostridium botulinum",
+      "Corynebacterium diphtheriae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hemolytic uremic syndrome (HUS) is commonly associated with:",
+    "options": [
+      "E. coli O157:H7",
+      "Salmonella typhi",
+      "Shigella sonnei",
+      "Vibrio cholerae"
+    ],
+    "correct": 0
+  }
+]

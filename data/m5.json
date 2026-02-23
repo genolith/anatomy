@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Specific prevention of diphtheria is carried out with the vaccine:",
+    "options": [
+      "STI",
+      "DPT",
+      "BCG",
+      "M-21"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For the treatment of tetanus use:",
+    "options": [
+      "Specific bacteriophages",
+      "Anatoxin",
+      "Isoniazid",
+      "Antitoxic serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The causative agent of botulism is:",
+    "options": [
+      "S. moy",
+      "C. tetani",
+      "C. perfringens",
+      "C. botulinum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Exotoxin of causative agent of botulism is revealed by:",
+    "options": [
+      "In the agglutination reaction",
+      "In biological method",
+      "On glucose-blood agar",
+      "On Kitta-Tarozzi medium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Staphylococcus do not release toxins:",
+    "options": [
+      "Exfoliatins",
+      "Endotoxins",
+      "Leukocidin",
+      "Enterotoxins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "C. botulinum secretes the following toxin:",
+    "options": [
+      "Hemolysin",
+      "Dermonecrotoxin",
+      "Leukocidin",
+      "Neurotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For the prevention of hepatitis B is used:",
+    "options": [
+      "Immunoglobulin",
+      "Attenuated vaccine",
+      "Recombinant vaccine",
+      "Killed vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The main route of transmission of hepatitis B virus:",
+    "options": [
+      "Water",
+      "Parenteral",
+      "Food",
+      "Air-dust"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For the prevention of hepatitis D is used:",
+    "options": [
+      "Interferon",
+      "Inactivated vaccine",
+      "Vaccine containing HBs antigen",
+      "Live vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For the prevention of poliomyelitis, everything is used except:",
+    "options": [
+      "Inactivated vaccine",
+      "Toxoid",
+      "Live vaccine",
+      "Water quality control"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rabies treatment:",
+    "options": [
+      "Rabies immune serum",
+      "Vaccine",
+      "Human rabies immune globulin",
+      "Absent"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In which room of pharmacies is it permissible to detect Staphylococcus aureus in the air:",
+    "options": [
+      "Washing",
+      "Assistant",
+      "Aseptic unit",
+      "Service Hall"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ways of penetration into the human body of botulinum causative agent:",
+    "options": [
+      "Injection",
+      "Sexual contact",
+      "Transplacental",
+      "Airborne droplets"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pathogen botulism forms:",
+    "options": [
+      "Neurotoxin",
+      "Dermatoxin",
+      "Enterotoxin",
+      "Erythrogenin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The main pathogens of streptococcal infections are:",
+    "options": [
+      "S. pyogenes",
+      "S. aureus",
+      "S. agalactiae",
+      "S. epidermidis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "S. pyogenes produces the following toxins:",
+    "options": [
+      "Neurotoxin",
+      "Dermatonecrotoxin",
+      "Enterotoxin",
+      "Erythrogenin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Meningococci attach to the mucous membrane of the nasopharynx with the help of:",
+    "options": [
+      "Flagella",
+      "Capsule",
+      "Pili",
+      "Spore"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For treatment of meningococcal infection apply:",
+    "options": [
+      "Specific bacteriophages",
+      "Nystatin",
+      "Specific immunoglobulin",
+      "Penicillins"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The cultural properties of staphylococci include everything except:",
+    "options": [
+      "Obligate anaerobes grow on simple nutrient media",
+      "Pigmented S-colonies",
+      "As an elective medium, Egg-salt agar is used",
+      "On liquid media give a uniform turbidity"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Staphylococci produce exotoxins, except:",
+    "options": [
+      "Enterotoxin",
+      "Exfoliatin",
+      "Erythrogenin",
+      "Leucocidin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The main factor of pathogenicity of gonococci is:",
+    "options": [
+      "Exfoliatin",
+      "Erythrogenin",
+      "Leucocidin",
+      "Endotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Morphological and staining properties of gonococci include:",
+    "options": [
+      "Gram-positive diplococci of the lance form",
+      "Spore formation",
+      "Gram-negative diplococci of the bean-shape form",
+      "Mobility"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The causative agent of diphtheria is:",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Clostridium diphtheriae",
+      "Neisseria diphtheriae",
+      "Bacillus diphtheriae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "For specific prevention of diphtheria was used:",
+    "options": [
+      "SABIN",
+      "DPT",
+      "MMR",
+      "BCG"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Specific nutrient media are media:",
+    "options": [
+      "Used to study the biochemical properties of bacteria",
+      "Designed to isolate most species of bacteria",
+      "Designed for the cultivation of which the culture is bacteria",
+      "Designed to isolate certain types of bacteria, in which the growth of other types of bacteria is suspended or slowed down"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Growth of bacteria on liquid nutrient media is manifested as follows, except:",
+    "options": [
+      "Uniform turbidity",
+      "Formation of S- and R-type colonies",
+      "Film on the Surface of the Medium",
+      "Sediment on the bottom and wall of the test tube"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Saccharolytic properties of bacteria - this ability:",
+    "options": [
+      "Produce indole",
+      "Grow on liquid nutrient medium with sugars, forming in it acidic and gaseous products",
+      "Liquefy gelatin",
+      "Allocate hydrogen sulphide"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Proteolytic properties of bacteria - this ability:",
+    "options": [
+      "Break down proteins, polypeptides and amino acids",
+      "To ferment sugar",
+      "Split different amino acids to form indole and hydrogen sulphide",
+      "Split polyhydric alcohols"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Obligate-anaerobic bacteria are:",
+    "options": [
+      "Bacillus",
+      "Clostridium",
+      "Mycobacterium",
+      "Vibrio"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Elective nutrient media are media:",
+    "options": [
+      "Used to study the biochemical properties of bacteria",
+      "Designed to isolate most species of bacteria",
+      "Designed for the cultivation of bacteria",
+      "Designed to isolate certain types of bacteria, in which the growth of other types of bacteria is suspended or slowed down"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "An elective nutrient medium for staphylococci is the environment:",
+    "options": [
+      "Endo",
+      "Meat peptone agar",
+      "Egg-salt agar",
+      "Peptone water"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Differential-diagnostic media are:",
+    "options": [
+      "Inhibiting the growth of certain microbes and promoting the growth of others",
+      "Allowing to determine the enzymatic properties of bacteria",
+      "Containing pieces of internal organs and tissues of an animal or human",
+      "Used for cultivation of microbes demanding to nutrient media"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In a Pasteur oven, dry heat is sterilized:",
+    "options": [
+      "Disposable syringes",
+      "Basic nutrient media",
+      "Glass and metal products",
+      "Waste material (cultures of microbes, material from the patient, etc.)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Spores of bacteria die at:",
+    "options": [
+      "Prolonged drying",
+      "Pasteurization",
+      "When exposed to ultraviolet rays",
+      "Autoclaving"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Asepsis is:",
+    "options": [
+      "Destructive measures of microbes in the pathological focus, wound, etc.",
+      "Destruction and removal of infectious agents from environmental objects",
+      "Prevention of contamination of objects or wounds by germs",
+      "Complete destruction of microbes from the object"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Methods of cultivation of obligate aerobic bacteria:",
+    "options": [
+      "In the absence of oxygen",
+      "In the presence of CO2",
+      "In the presence of a small amount of oxygen",
+      "In the presence of oxygen"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "To differential-diagnostic include the following media, except:",
+    "options": [
+      "Endo",
+      "Hiss media with Sugars",
+      "Meat peptone broth",
+      "MacConkey agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Methods of cultivation of obligate anaerobic bacteria:",
+    "options": [
+      "In the absence of oxygen",
+      "In the presence of CO2",
+      "In the presence of a small amount of oxygen",
+      "In the presence of oxygen"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which method of sterilization is not physical:",
+    "options": [
+      "Gamma-ray sterilization",
+      "Sterilization in flame",
+      "Sterilization with ultraviolet rays",
+      "Gas sterilization"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Tetanus is caused by:",
+    "options": [
+      "C. nosy",
+      "C. tetani",
+      "C. perfringens",
+      "C. botulinum"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The causative agent of streptococcal infection is:",
+    "options": [
+      "S. pyogenes",
+      "S. aureus",
+      "S. sonnei",
+      "S. agalactiae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The cultural properties of causative agent of botulism is:",
+    "options": [
+      "Aerobic, grows on simple nutrient media",
+      "Strict anaerobic growth on Kitta-Tarozzi medium",
+      "Aerobic, grows only on complex nutrient",
+      "As the elective medium is used HAS"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Scarlet fever is caused by streptococcus releasing toxin:",
+    "options": [
+      "Erythrogenic",
+      "Hemolytic",
+      "Dermonecrotoxin",
+      "Neurotoxin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The main pathogenic factor of the causative agent of diphtheria is associated with:",
+    "options": [
+      "Adhesion",
+      "Toxicity",
+      "Aggression",
+      "Colonization"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For the treatment of diphtheria, use:",
+    "options": [
+      "Specific bacteriophage",
+      "Ethambutol",
+      "Anatoxin",
+      "Antitoxic serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The main factor of pathogenicity of gonococcal is:",
+    "options": [
+      "Exfoliatin",
+      "Erythrogenin",
+      "Leucocidin",
+      "Endotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Meningococcal infection manifests itself in all forms, except:",
+    "options": [
+      "Carrier",
+      "Bacteremia",
+      "Nasopharyngitis",
+      "Food poisoning"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Lethal outcome for anthrax infection is:",
+    "options": [
+      "Spore",
+      "Anthraxin",
+      "Endotoxin",
+      "Exotoxin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The main pathogens of streptococcal infections are:",
+    "options": [
+      "S. pyogenes",
+      "S. aureus",
+      "S. agalactiae",
+      "S. epidermidis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Prevention of tuberculosis includes:",
+    "options": [
+      "Use of MMR vaccine",
+      "Use of tuberculin",
+      "Use of live BCG vaccine",
+      "Use of killed BCG vaccine"
+    ],
+    "correct": 2
+  }
+]

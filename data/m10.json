@@ -1,0 +1,502 @@
+[
+  {
+    "question": "The fungal element seen in chromoblastomycosis is:",
+    "options": [
+      "Medlar bodies (sclerotic bodies)",
+      "Spherules",
+      "Budding yeast",
+      "Pseudohyphae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mycetoma can be caused by:",
+    "options": [
+      "Both fungi and bacteria",
+      "Fungi only",
+      "Bacteria only",
+      "Viruses only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"grains\" in mycetoma are composed of:",
+    "options": [
+      "Aggregates of organisms",
+      "Dead tissue",
+      "Pus cells",
+      "Fibrin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rhinosporidiosis is caused by:",
+    "options": [
+      "Rhinosporidium seeberi",
+      "Sporothrix schenckii",
+      "Coccidioides immitis",
+      "Histoplasma capsulatum"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sporotrichosis is caused by:",
+    "options": [
+      "Sporothrix schenckii",
+      "Sporotrichum schenckii",
+      "Candida albicans",
+      "Cryptococcus neoformans"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The typical presentation of sporotrichosis is:",
+    "options": [
+      "Lymphocutaneous spread",
+      "Pulmonary disease",
+      "Meningitis",
+      "Disseminated disease"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Coccidioidomycosis is caused by:",
+    "options": [
+      "Coccidioides immitis",
+      "Histoplasma capsulatum",
+      "Blastomyces dermatitidis",
+      "Paracoccidioides brasiliensis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The diagnostic form of Coccidioides in tissue is:",
+    "options": [
+      "Spherules containing endospores",
+      "Budding yeast",
+      "Hyphae",
+      "Sclerotic bodies"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Blastomycosis is caused by:",
+    "options": [
+      "Blastomyces dermatitidis",
+      "Blastomyces brasiliensis",
+      "Cryptococcus neoformans",
+      "Histoplasma capsulatum"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The diagnostic form of Blastomyces in tissue is:",
+    "options": [
+      "Broad-based budding yeast",
+      "Narrow-based budding",
+      "Spherules",
+      "Hyphae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Paracoccidioidomycosis is caused by:",
+    "options": [
+      "Paracoccidioides brasiliensis",
+      "Blastomyces brasiliensis",
+      "Coccidioides brasiliensis",
+      "Histoplasma brasiliensis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The diagnostic form of Paracoccidioides is:",
+    "options": [
+      "Multiple budding (pilot's wheel appearance)",
+      "Broad-based budding",
+      "Narrow-based budding",
+      "Spherules"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cryptococcus neoformans is characterized by:",
+    "options": [
+      "Polysaccharide capsule",
+      "Broad-based budding",
+      "Hyphae in tissue",
+      "Spherules"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The India ink preparation is used to visualize:",
+    "options": [
+      "Cryptococcus capsule",
+      "Treponema pallidum",
+      "Mycobacterium tuberculosis",
+      "Spores"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cryptococcus neoformans causes:",
+    "options": [
+      "Meningitis in immunocompromised",
+      "Pneumonia",
+      "Skin lesions",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The natural habitat of Cryptococcus neoformans is:",
+    "options": [
+      "Pigeon droppings",
+      "Soil",
+      "Water",
+      "Decaying wood"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Candida albicans is part of normal flora of:",
+    "options": [
+      "Oral cavity",
+      "GI tract",
+      "Vagina",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The germ tube test is positive for:",
+    "options": [
+      "Candida albicans",
+      "Candida tropicalis",
+      "Candida parapsilosis",
+      "Candida krusei"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chlamydospore formation on corn meal agar is characteristic of:",
+    "options": [
+      "Candida albicans",
+      "Candida tropicalis",
+      "Cryptococcus neoformans",
+      "Aspergillus fumigatus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Aspergillus fumigatus causes:",
+    "options": [
+      "Allergic bronchopulmonary aspergillosis",
+      "Aspergilloma (fungus ball)",
+      "Invasive aspergillosis",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The diagnostic feature of Aspergillus is:",
+    "options": [
+      "Septate hyphae with 45° branching",
+      "Non-septate hyphae",
+      "Budding yeast",
+      "Spherules"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Zygomycetes (Mucor, Rhizopus) are characterized by:",
+    "options": [
+      "Broad, non-septate hyphae with 90° branching",
+      "Septate hyphae",
+      "Budding yeast",
+      "Capsule"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mucormycosis is commonly associated with:",
+    "options": [
+      "Diabetic ketoacidosis",
+      "AIDS",
+      "Tuberculosis",
+      "Malaria"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dermatophytes infect:",
+    "options": [
+      "Keratinized tissues (skin, hair, nails)",
+      "Internal organs",
+      "Mucous membranes",
+      "Blood"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The three genera of dermatophytes are:",
+    "options": [
+      "Trichophyton, Microsporum, Epidermophyton",
+      "Aspergillus, Penicillium, Mucor",
+      "Candida, Cryptococcus, Histoplasma",
+      "Blastomyces, Coccidioides, Paracoccidioides"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Microsporum species primarily infect:",
+    "options": [
+      "Hair and skin",
+      "Nails only",
+      "Skin only",
+      "Internal organs"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trichophyton species infect:",
+    "options": [
+      "Skin, hair, and nails",
+      "Skin only",
+      "Hair only",
+      "Nails only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Epidermophyton floccosum infects:",
+    "options": [
+      "Skin and nails only (not hair)",
+      "Hair only",
+      "All keratinized tissues",
+      "Internal organs"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Wood's lamp (UV light) examination is useful for diagnosing infections caused by:",
+    "options": [
+      "Microsporum species",
+      "Trichophyton species",
+      "Candida albicans",
+      "Aspergillus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "KOH mount is used for:",
+    "options": [
+      "Direct microscopic examination of fungal elements in clinical specimens",
+      "Gram staining",
+      "Acid-fast staining",
+      "Capsule staining"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sabouraud dextrose agar is used for fungal culture because:",
+    "options": [
+      "Acidic pH (5.6) inhibits bacterial growth",
+      "Neutral pH",
+      "Alkaline pH",
+      "Contains antibiotics only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dimorphic fungi exist as:",
+    "options": [
+      "Mold at 25°C and yeast at 37°C",
+      "Yeast at 25°C and mold at 37°C",
+      "Mold at both temperatures",
+      "Yeast at both temperatures"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Histoplasma capsulatum is endemic in:",
+    "options": [
+      "Ohio and Mississippi River valleys",
+      "Southwest USA",
+      "Africa",
+      "Europe"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The diagnostic form of Histoplasma in tissue is:",
+    "options": [
+      "Small intracellular budding yeast",
+      "Large yeast with broad-based budding",
+      "Spherules",
+      "Hyphae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Blastomyces dermatitidis is endemic in:",
+    "options": [
+      "Mississippi and Ohio River valleys",
+      "Southwest USA",
+      "Africa only",
+      "Asia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Coccidioides immitis is endemic in:",
+    "options": [
+      "San Joaquin Valley, California and Southwest USA",
+      "Ohio River valley",
+      "Mississippi River valley",
+      "Pacific Northwest"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Paracoccidioides brasiliensis is endemic in:",
+    "options": [
+      "South America (Brazil, Colombia, Venezuela)",
+      "North America",
+      "Africa",
+      "Asia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Penicillium marneffei is endemic in:",
+    "options": [
+      "Southeast Asia",
+      "Africa",
+      "South America",
+      "North America"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pneumocystis jirovecii (formerly P. carinii) is now classified as:",
+    "options": [
+      "Fungus",
+      "Protozoan",
+      "Bacterium",
+      "Virus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pneumocystis pneumonia is diagnosed by:",
+    "options": [
+      "Methenamine silver stain or immunofluorescence",
+      "Gram stain",
+      "Acid-fast stain",
+      "India ink"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The drug of choice for Pneumocystis pneumonia is:",
+    "options": [
+      "TMP-SMX",
+      "Amphotericin B",
+      "Fluconazole",
+      "Penicillin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Amphotericin B acts by:",
+    "options": [
+      "Binding to ergosterol in fungal cell membrane",
+      "Inhibiting cell wall synthesis",
+      "Inhibiting protein synthesis",
+      "Inhibiting DNA synthesis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Fluconazole acts by:",
+    "options": [
+      "Inhibiting ergosterol synthesis (14-alpha demethylase inhibition)",
+      "Binding to ergosterol",
+      "Inhibiting cell wall synthesis",
+      "Inhibiting nucleic acid synthesis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Echinocandins (caspofungin) act by:",
+    "options": [
+      "Inhibiting beta-glucan synthesis in fungal cell wall",
+      "Inhibiting ergosterol synthesis",
+      "Binding to ergosterol",
+      "Inhibiting protein synthesis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Griseofulvin is used for:",
+    "options": [
+      "Dermatophyte infections",
+      "Systemic mycoses",
+      "Candidiasis",
+      "Cryptococcosis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Terbinafine acts by:",
+    "options": [
+      "Inhibiting squalene epoxidase (ergosterol synthesis)",
+      "Inhibiting beta-glucan synthesis",
+      "Binding to ergosterol",
+      "Inhibiting protein synthesis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Nystatin is used for:",
+    "options": [
+      "Topical treatment of candidiasis",
+      "Systemic fungal infections",
+      "Dermatophyte infections",
+      "Cryptococcal meningitis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Potassium iodide is used for:",
+    "options": [
+      "Sporotrichosis (cutaneous form)",
+      "Systemic mycoses",
+      "Candidiasis",
+      "Aspergillosis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Ames test\" is used to detect:",
+    "options": [
+      "Mutagenic potential of chemicals",
+      "Antibiotic resistance",
+      "Bacterial toxins",
+      "Viral contamination"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The \"Mantoux test\" detects:",
+    "options": [
+      "Delayed hypersensitivity to tuberculin",
+      "Immediate hypersensitivity",
+      "Antibody response",
+      "Toxin production"
+    ],
+    "correct": 0
+  }
+]

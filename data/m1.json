@@ -1,0 +1,471 @@
+[
+  {
+    "question": "Endotoxins are:",
+    "options": [
+      "Toxoid precursors",
+      "LPS",
+      "High toxicity",
+      "Proteins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Reinfection is:",
+    "options": [
+      "Disease that occurs after a previous infection with a second contamination with the same pathogen",
+      "Disease caused by human infection with the same pathogen before recovery",
+      "Disease caused by infection with a new pathogen in the background of an unfinished initial infectious disease",
+      "Return of the disease due to remaining pathogens in the body"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Peptidoglycans are found in large quantities in cell wall of:",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Gram negative bacteria",
+      "Viruses",
+      "All of the above"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Congenital rubella is transmitted by:",
+    "options": [
+      "Through placenta",
+      "Food",
+      "Aerosols",
+      "Sexual contact"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hepatitis B prophylaxis is by:",
+    "options": [
+      "Killed vaccine",
+      "Live attenuated vaccine",
+      "Subunit vaccine",
+      "Toxoid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Dominant microorganisms colonizing the oral mucosa is:",
+    "options": [
+      "Lactobacillius",
+      "Veillonella",
+      "Streptococci",
+      "Peptostreptococci"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "β-lactam antibiotic is:",
+    "options": [
+      "streptomycin",
+      "rifampicin",
+      "erythromycin",
+      "penicillin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In the mature dental plaque dominate:",
+    "options": [
+      "anaerobic microorganisms",
+      "aerobic microorganisms",
+      "microaerophilic species of microorganisms",
+      "aerobic and facultatively anaerobic microorganisms"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The first immunoglobulins formed during the primary immune response are:",
+    "options": [
+      "IgM",
+      "IgE",
+      "IgD",
+      "IgA"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Most common cause of acute bacterial endocarditis is:",
+    "options": [
+      "Streptococcus intermedius",
+      "Staphylococcus aureus",
+      "Candida albicans",
+      "Streptococcus viridans"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Prevention of infective endocarditis in dental patients is by:",
+    "options": [
+      "bacteriophage",
+      "antibiotic",
+      "immunoglobulin",
+      "vaccine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ethylene oxide can be used for sterilization of:",
+    "options": [
+      "All of the above",
+      "Plastic syringes",
+      "Catheter",
+      "Cannula"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The most commonly used specific media for isolation of fungi is:",
+    "options": [
+      "Blood agar",
+      "Robinson's agar",
+      "Sabouraud's agar",
+      "Chocolate agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Salmonella growth on MacConkey's agar:",
+    "options": [
+      "Purple",
+      "Blue",
+      "Dark red with a metallic sheen",
+      "Colorless"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Best way to sterilize all-glass syringes is:",
+    "options": [
+      "Boiling",
+      "Hot air oven",
+      "Formaldehyde",
+      "Autoclave"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Peritrichous arrangement refers to",
+    "options": [
+      "Flagella all around the cell",
+      "Tuft of flagella at one pole",
+      "Single flagellum at one pole",
+      "No flagella"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Disease which is not caused by protozoa:",
+    "options": [
+      "Amebiasis",
+      "Toxoplasmosis",
+      "Candidiasis",
+      "Giardiasis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Transduction is:",
+    "options": [
+      "DNA transfer through the cytoplasmic bridge",
+      "Transfer of information by the transposons",
+      "Transfer of information from donors to the recipient due to free DNA",
+      "Transferring of donor chromosome under the action of phage"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bacilli:",
+    "options": [
+      "coma shaped",
+      "flexous spiral form",
+      "rigid spiral form",
+      "rod shaped",
+      "spherical shaped"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Monotrichous:",
+    "options": [
+      "single or tuft on both sides",
+      "surrounded by lateral flagella",
+      "single flagella on one side",
+      "tuft of flagella on one side"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Electron microscopy uses:",
+    "options": [
+      "reflected light",
+      "electron beam"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Cocci:",
+    "options": [
+      "coma shaped",
+      "flexous spiral form",
+      "rigid spiral form",
+      "spherical shaped"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Agar-agar is used in microbiological media for",
+    "options": [
+      "Solidifying media",
+      "All of the above",
+      "Carbon source",
+      "Nutritive value"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Culture medium for cultivation of mycobacterium in:",
+    "options": [
+      "Thayer-Martin medium",
+      "Loeffler's serum",
+      "Ludlam's medium",
+      "Lowenstein-Jensen medium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is responsible for the transfer of drug resistance in bacteria?",
+    "options": [
+      "None of the above",
+      "Colicinogenic factor",
+      "F factor",
+      "R factor"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Lanceolate appearance is seen in",
+    "options": [
+      "Enterococcus faecalis",
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Recurrences of genital herpes are",
+    "options": [
+      "More in HSV-1 than HSV-2",
+      "Variable and insignificant with either type of HSV",
+      "Same in both HSV-1 and HSV-2",
+      "More with HSV-2 than HSV-1"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Prokaryotes differ from eukaryotes by the following:",
+    "options": [
+      "Have a core",
+      "Have a nucleoid",
+      "Have mitochondria, Golgi apparatus, endoplasmic reticulum",
+      "Do not have sterols in the cytoplasmic membrane"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A young pregnant woman presents with fulminant hepatic failure. The most likely agent is",
+    "options": [
+      "HBV",
+      "HCV",
+      "HAV",
+      "HEV"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which is the major immunoglobulin in terms of concentration in normal serum of blood?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgG",
+      "IgD"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Enterotoxin are produced by all EXCEPT:",
+    "options": [
+      "Vibrio cholerae",
+      "Clostridium perfringens",
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Dark field microscopy is used for visualizing:",
+    "options": [
+      "Treponema pallidum",
+      "Salmonella",
+      "Vibrio cholerae",
+      "Staphylococcus aureus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Food poisoning with shortest incubation period:",
+    "options": [
+      "Staphylococcus aureus",
+      "Clostridium perfringens",
+      "Clostridium botulinum",
+      "Vibrio cholerae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Cholera is caused by:",
+    "options": [
+      "Vibrio parahomolyticus",
+      "Salmonella cholerae",
+      "Vibrio cholerae-01",
+      "NAG vibrio"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The mechanism of the action of Amphotericin B is that it",
+    "options": [
+      "Inhibits ergosterol synthesis",
+      "Binds to ergosterol and produce pores in the cell membrane",
+      "Prevents mitotic spindle function",
+      "Inhibits synthesis of pyrimidines and RNA"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Staining method for Proteus:",
+    "options": [
+      "Romanovsky-Giemsa",
+      "Gram",
+      "Orbehko",
+      "Ziehl-Neelsen staining"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Gram negative cocci:",
+    "options": [
+      "Bacillus",
+      "Staphylococcus",
+      "Streptococcus",
+      "Neisseria"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is present in prokaryotes?",
+    "options": [
+      "Nucleolus",
+      "Chromosome",
+      "Endoplasmic reticulum",
+      "Mitochondria"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The first scientist to have observed bacteria using a single-lens microscope is",
+    "options": [
+      "Antony Van Leeuwenhoek",
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Edward Jenner"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Carriers for Herpes simplex virus is:",
+    "options": [
+      "Monkey",
+      "Both",
+      "Man",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "True regarding Corynebacterium diphtheriae:",
+    "options": [
+      "Gram negative, bacilli",
+      "Gram positive, bacilli",
+      "Gram positive, cocci",
+      "Gram negative, cocci"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The earliest immunoglobulins to be synthesized in acute stage of disease?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgE"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "McIntosh-Fildes' anaerobic jar is used for the isolation of",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Clostridium tetani",
+      "Streptococcus pneumoniae",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The most commonly used specific media for isolation of fungi is",
+    "options": [
+      "Sabouraud's agar",
+      "Robinson's agar",
+      "Chocolate agar",
+      "Blood agar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Gold standard for diagnosis confirmation of HIV is",
+    "options": [
+      "PCR",
+      "ELISA",
+      "Rapid test",
+      "Western blot"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Gram staining depends on the structure or presence of:",
+    "options": [
+      "Capsule",
+      "Volutin granules",
+      "Spores",
+      "Cell wall"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "All of the following are toxin-mediated Staphylococcus aureus diseases EXCEPT",
+    "options": [
+      "Scaled skin syndrome",
+      "Food poisoning",
+      "Toxic shock syndrome",
+      "Intracranial thrombophlebitis"
+    ],
+    "correct": 3
+  }
+]
