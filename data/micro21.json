@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Causative agent of HIV infection:",
+    "options": [
+      "Genus Rubulavirus, family Paramyxoviridae",
+      "Genus Morbillivirus, family Paramyxoviridae",
+      "Genus Lentivirus, family Retroviridae",
+      "Genus Flavivirus, family Flaviviridae"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Candida albicans is characterized by:",
+    "options": [
+      "Ability to grow on Kitt-Tarozzi medium",
+      "Formation of colonies on solid media typical of mold fungi",
+      "Ability to form a film in 1% alkaline peptone water within 6-8 hours",
+      "Formation of a \"germ tube\" from a blastospore when cultured in serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Tinctorial properties refer to the ability to:",
+    "options": [
+      "Ferment carbohydrates",
+      "Take up stains (dyes)",
+      "Degrade proteins",
+      "Form spores"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The causative agent of cholera is cultivated on:",
+    "options": [
+      "Bismuth sulfite agar",
+      "Hottinger's broth",
+      "Endo medium",
+      "Alkaline peptone water"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The most dangerous influenza virus type is:",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Methods for detecting volutin grains include staining according to:",
+    "options": [
+      "Ozheshko",
+      "Neisser",
+      "Gram",
+      "Observing motility in \"crushed drop\" and \"hanging drop\" preparations"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Gram-negative, non-motile, non-spore-forming bacteria causing human genitourinary tract infections are:",
+    "options": [
+      "Treponemes",
+      "Bordetella",
+      "Spirochetes",
+      "Gonococci"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Method that uses heat and steam factors for sterilization:",
+    "options": [
+      "Dry-heat sterilization",
+      "Gamma irradiation",
+      "Autoclaving",
+      "Boiling"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The transmission route of rickettsioses is:",
+    "options": [
+      "Transplacental",
+      "Vector-borne (transmissive)",
+      "Foodborne (alimentary)",
+      "Airborne droplet"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Obligate anaerobes grow:",
+    "options": [
+      "At low oxygen concentrations",
+      "Both in the presence and absence of oxygen",
+      "Only in the presence of oxygen",
+      "Only in an oxygen-free environment"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Cell wall is absent in:",
+    "options": [
+      "Streptococci",
+      "Mycoplasmas",
+      "Mycobacteria",
+      "Gonococci"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The method used to determine bacterial susceptibility to antimicrobial agents is:",
+    "options": [
+      "Serial dilution method",
+      "Drygalski method",
+      "Biological method",
+      "Fertner method"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Macrolides include:",
+    "options": [
+      "Gentamicin",
+      "Erythromycin",
+      "Streptomycin",
+      "Metronidazole"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The reservoir of H. pylori is:",
+    "options": [
+      "Infected humans",
+      "Birds",
+      "Rodents",
+      "Small ruminants"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Transfer of DNA from donor bacteria to recipient bacteria mediated by a bacteriophage is called:",
+    "options": [
+      "Transformation",
+      "Conjugation",
+      "Transduction",
+      "Dissociation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The Burnet test is used for allergodiagnosis of:",
+    "options": [
+      "Brucellosis",
+      "Tularemia",
+      "Anthrax",
+      "Plague"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Gram-positive, irregular rods containing metachromatic granules, non-motile and toxigenic, are most likely:",
+    "options": [
+      "Treponemes",
+      "Bordetella",
+      "Spirochetes",
+      "Corynebacteria"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Bacteriophage composition includes:",
+    "options": [
+      "Nucleic acid",
+      "Capsule",
+      "Lipopolysaccharide",
+      "Neuraminidase"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Staining method used for Mycobacterium tuberculosis is:",
+    "options": [
+      "Gram stain",
+      "Ginsburg-Burri stain",
+      "Ziehl-Neelsen stain",
+      "Morozov stain"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Drugs used to treat protozoal infections includes:",
+    "options": [
+      "Penicillin",
+      "Fluconazole",
+      "Metronidazole",
+      "Piperacillin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Fluoroquinolone-class antibiotics include:",
+    "options": [
+      "Metronidazole",
+      "Clotrimazole",
+      "Ciprofloxacin",
+      "Furazolidone"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Cultural characteristics of streptococci:",
+    "options": [
+      "Facultative anaerobes that grow on simple nutrient media",
+      "Obligate anaerobes that require special nutrient media",
+      "On blood-containing media, they form S-type colonies with α, β, or γ hemolysis",
+      "On solid media, they produce pigmented colonies"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Staphylococcal antigens include all EXCEPT:",
+    "options": [
+      "Protein A",
+      "Teichoic acids",
+      "Toxins",
+      "Lipopolysaccharide"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Morphological and tinctorial properties of the diphtheria causative agent:",
+    "options": [
+      "Gram-negative, non-spore-forming club-shaped rods arranged like a \"picket fence\"",
+      "Gram-positive, non-spore-forming club-shaped rods arranged in \"V shape\"",
+      "Gram-positive, spore-forming rods shaped like a \"tennis racket\"",
+      "Gram-positive, polymorphic bacteria showing branching forms"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Staphylococcal virulence factors causing food intoxications:",
+    "options": [
+      "Plasma coagulase",
+      "Enterotoxins A-F",
+      "Hemolysins",
+      "Exfoliative toxin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Source of anthrax:",
+    "options": [
+      "Soil",
+      "Water",
+      "Blood-sucking insects",
+      "Food products"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "An antimicrobial agent belonging to the β-lactam class is:",
+    "options": [
+      "Azithromycin",
+      "Amoxicillin",
+      "Tetracycline",
+      "Polymyxin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The O-antigen of Enterobacteriaceae is represented by:",
+    "options": [
+      "Lipid",
+      "Polysaccharide",
+      "Lipopolysaccharide-protein complex",
+      "Protein"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The primary medium for isolating systemic mycosis pathogens is:",
+    "options": [
+      "Blood agar",
+      "Endo medium",
+      "Sabouraud medium",
+      "Egg yolk-salt agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Plasmids responsible for bacteriocin synthesis in bacteria are:",
+    "options": [
+      "Ent-plasmids",
+      "R-plasmids",
+      "F-plasmids",
+      "Col-plasmids"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Enteropathogenic Escherichia coli are characterized by:",
+    "options": [
+      "Ability to multiply on the surface of the small intestinal epithelium, leading to destruction of microvilli and damage to the apical surface of epithelial cells",
+      "Ability to cause bloody diarrhea",
+      "Inability to grow on nutrient media",
+      "Spore formation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Antiviral drugs include:",
+    "options": [
+      "Ornidazole",
+      "Metronidazole",
+      "Ciprofloxacin",
+      "Rimantadine"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The H-antigen of bacteria is:",
+    "options": [
+      "Lipopolysaccharide",
+      "Polysaccharide",
+      "Protein",
+      "Lipid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Polyenes include:",
+    "options": [
+      "Erythromycin",
+      "Ciprofloxacin",
+      "Nystatin",
+      "Amoxicillin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Nutrient media used for identification of bacteria based on biochemical properties:",
+    "options": [
+      "Hottinger's broth",
+      "Peptone water",
+      "Giss medium",
+      "Blood agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The main factor in the pathogenesis of cholera is:",
+    "options": [
+      "Endotoxin",
+      "Proteolytic enzymes",
+      "Exotoxin",
+      "Hemolysin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The method used to stain bacterial capsules is:",
+    "options": [
+      "Burri-Gins",
+      "Ozheshko",
+      "Neisser",
+      "Ziehl-Neelsen"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Influenza virus antigens include all EXCEPT:",
+    "options": [
+      "S (Nucleoprotein)",
+      "H (Hemagglutinin)",
+      "H (Flagellar)",
+      "N (Neuraminidase)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The period of an infectious disease characterized by the appearance of specific symptoms is:",
+    "options": [
+      "Acute period",
+      "Prodromal period",
+      "Convalescence",
+      "Incubation period"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Antibiotics that inhibit bacterial protein synthesis:",
+    "options": [
+      "Penicillin",
+      "Ceftriaxone",
+      "Erythromycin",
+      "Imipenem"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Transmission route of hemorrhagic fever with renal syndrome (HFRS):",
+    "options": [
+      "Hematogenous (blood contact)",
+      "Sexual",
+      "Airborne-dust",
+      "Vector-borne (transmissive)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The primary medium for isolation of gonococci is:",
+    "options": [
+      "Blood agar",
+      "Serum medium",
+      "Sabouraud medium",
+      "Meat-peptone agar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Capnophiles grow:",
+    "options": [
+      "At low oxygen concentrations",
+      "Only in the absence of oxygen",
+      "Both in the presence and absence of oxygen",
+      "In the presence of CO2"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Viral infection for which a recombinant vaccine is used for specific prophylaxis:",
+    "options": [
+      "Poliomyelitis",
+      "Rubella",
+      "Measles",
+      "Hepatitis B"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Confirmatory test in HIV diagnosis:",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Immunoblotting",
+      "Virological method"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Immunity developed after administration of toxoid is:",
+    "options": [
+      "Artificial active",
+      "Artificial passive",
+      "Natural passive",
+      "Natural active"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Clostridium tetani causes the following type of infection:",
+    "options": [
+      "Bacteremia",
+      "Viremia",
+      "Toxemia",
+      "Septicemia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Morphological and tinctorial properties of Streptococcus pneumoniae:",
+    "options": [
+      "Non-encapsulated",
+      "Gram-negative rods",
+      "Gram-positive cocci arranged in \"packets\"",
+      "Gram-positive lancet-shaped cocci arranged in pairs"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Infection that can cause intrauterine fetal infection:",
+    "options": [
+      "Measles",
+      "Rubella",
+      "Scarlet fever",
+      "Mumps"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Measles virus belongs to the genus:",
+    "options": [
+      "Pneumovirus",
+      "Morbillivirus",
+      "Flavivirus",
+      "Rubulavirus"
+    ],
+    "correct": 1
+  }
+]

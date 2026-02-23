@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microbiology variant 21 mcq</title>
+    <link rel="stylesheet" href="quiz.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<div class="adminActions">
+	<input type="checkbox" name="adminToggle" class="adminToggle" />
+	<a class="adminButton" href="#!"><i class="fa fa-gear"></i></a>
+	<div class="adminButtons">
+<a href="index.html" title="Home"><i class="fa fa-home"></i></a>
+		<a href="https://t.me/aayush_s_c" title="me"><i class="fab fa-telegram"></i></a>
+		<a href="edit.html" title="Score board"><i class="fa fa-pencil"></i></a>
+		<a href="score.html" title="Score board"><i class="fa fa-star"></i></a>
+	</div>
+</div>
+<body>
+
+    <div class="container">
+        <h1>Micro Var 21 Quiz</h1>
+        <div id="quiz-container"></div>
+    </div>
+
+
+    <!-- Load specific quiz data -->
+<script>
+    window.onload = () => {
+        const subject = window.location.pathname.split('/').filter(Boolean).pop();
+        const jsonPath = `data/micro21.json`;
+        console.log("📄 Starting quiz load for:", subject);
+        loadQuiz(jsonPath);
+    };
+</script>
+    <!-- Shared JavaScript -->
+    <script src="script.js"></script>
+
+</body>
+</html>
