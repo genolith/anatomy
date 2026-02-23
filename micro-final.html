@@ -57,7 +57,7 @@ function loadMultipleQuizzes(jsonPaths) {
         const selectedQuestions = shuffled.slice(0, 100);
 
         // Initialize quiz with merged data directly
-        loadQuizFromData(selectedQuestions);
+        loadQuizFromData(shuffled);
     });
 }
 
@@ -78,7 +78,12 @@ window.onload = () => {
         'data/m3.json',
         'data/m4.json',
         'data/m5.json',
-        'data/m6.json'
+        'data/m6.json',
+        'data/m7.json',
+        'data/m8.json',
+        'data/m9.json',
+        'data/m10.json',
+        'data/m11.json'
     ];
     loadMultipleQuizzes(jsonPaths);
 };

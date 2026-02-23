@@ -1,0 +1,492 @@
+[
+  {
+    "question": "True about rabies virus are all except:",
+    "options": [
+      "Bullet shaped",
+      "Enveloped",
+      "RNA virus",
+      "DNA virus"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The main mode of transmission of hepatitis A virus is:",
+    "options": [
+      "Predominantly parenteral",
+      "Predominantly fecal-oral",
+      "By an insect vector",
+      "Contact with infected animal"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "All of the following are flagellate protozoa except:",
+    "options": [
+      "Leishmania",
+      "Balantidium",
+      "Trichomonas",
+      "Giardia"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Human immunodeficiency virus reproduces mainly in:",
+    "options": [
+      "CD8 cells",
+      "CD4 cells",
+      "Plasma cells",
+      "Neutrophils"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Congenital anomalies in a fetus are commonly seen if pregnant lady gets infected with:",
+    "options": [
+      "Rubella",
+      "Rabies",
+      "Mumps",
+      "Influenza"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Herpes zoster is related to:",
+    "options": [
+      "Mumps",
+      "Variola",
+      "Herpes simplex",
+      "Varicella"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is right about exotoxin:",
+    "options": [
+      "Heat stable",
+      "Protein-polysaccharide-lipid complex",
+      "Converted to toxoids by formalin",
+      "Usually produced fever in the host"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Regarding plasmids following are true except:",
+    "options": [
+      "Mediate drug resistance",
+      "Determine pill production",
+      "Determine cell wall synthesis",
+      "Transferred by conjugation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Inhabitants of the oral cavity of a healthy person:",
+    "options": [
+      "Yersinia",
+      "Shigella",
+      "Legionella",
+      "Streptococcus"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The transfer of DNA from donor bacteria to recipient bacteria with the participation of a bacteriophage is called:",
+    "options": [
+      "transformation",
+      "conjugation",
+      "transduction",
+      "dissociation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For the prevention of hepatitis D is used:",
+    "options": [
+      "Toxoid",
+      "Inactivated vaccine",
+      "Vaccine containing HBs antigen",
+      "Live vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The main factor of pathogenicity of the causative agent of diphtheria:",
+    "options": [
+      "Endotoxin",
+      "Capsule",
+      "Exotoxin",
+      "Fimbria"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Leptospirosis is:",
+    "options": [
+      "Sapronosis",
+      "Zoonosis",
+      "Anthroponosis",
+      "Opportunistic infection"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "To determine the antigenic structure of enterobacteria, the following test is used:",
+    "options": [
+      "Precipitation",
+      "Complement fixation",
+      "PCR",
+      "Agglutination"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For Y. pestis it is right (all except):",
+    "options": [
+      "R type colonies",
+      "gram positive bacteria",
+      "grow at temperature 28°C",
+      "bipolar staining"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Entamoeba histolytica primarily affects which site:",
+    "options": [
+      "Colon",
+      "Ileum",
+      "Stomach",
+      "Liver"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Medium for the accumulation of cholera pathogen:",
+    "options": [
+      "Endo",
+      "MacConkey",
+      "Bile broth",
+      "Alkaline peptone water"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The causative agent of whooping cough belongs to the genus:",
+    "options": [
+      "Brucella",
+      "Branhamella",
+      "Bordetella",
+      "Bartonella"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "\"Canned food\" is responsible for food poisoning caused by:",
+    "options": [
+      "Staphylococcus aureus",
+      "Salmonella enteritidis",
+      "Clostridium botulinum",
+      "Yersinia enterocolitica"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Histoplasmosis refers to causative agents of:",
+    "options": [
+      "Deep mycoses",
+      "Surface mycoses",
+      "Subcutaneous mycoses",
+      "Dermatomycoses"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Candida albicans is characterized by:",
+    "options": [
+      "Ability to grow on MacConkey medium",
+      "Formation on solid media of colonies characteristic of molds",
+      "The ability to grow in the form of a film in 1% alkaline peptone water after 6-8 hours",
+      "Formation of a \"germ tube\" from blastospore when cultured in serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is not a live vaccine?",
+    "options": [
+      "BCG",
+      "Anthrax vaccine",
+      "MMR",
+      "Salk polio"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Materials for microbiological diagnosis of syphilis are the following, except:",
+    "options": [
+      "Tissue fluid from the ulcer",
+      "Blood",
+      "Content of rashes",
+      "Gumma content"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Borrelia burgdorferi belong to:",
+    "options": [
+      "Cocci",
+      "Rods",
+      "Spiral bacteria",
+      "Filamentous bacteria"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Diarrheogenic and opportunistic strains of E. coli differ in:",
+    "options": [
+      "Staining properties",
+      "Ability to utilize lactose",
+      "Morphology",
+      "Antigenic structure"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The causative agent of legionellosis:",
+    "options": [
+      "L. pneumophila",
+      "L. pneumoniae",
+      "L. gormanii",
+      "L. cytica"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following crosses placenta?",
+    "options": [
+      "Plasmodium",
+      "Toxoplasma",
+      "Trypanosoma",
+      "Trichomonas"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Viral infection, for specific prevention of which a recombinant vaccine is used:",
+    "options": [
+      "Poliomyelitis",
+      "Rubella",
+      "Hepatitis B",
+      "Measles"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Relapse is:",
+    "options": [
+      "Re-infection with the same microbe after complete recovery",
+      "Infection caused by several types of microbes",
+      "A new infectious process caused by another microbe added to an already developed infectious process",
+      "The emergence of repeated during the recovery period of the clinical symptoms of the pathogens remaining in the body"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Classification of hepatitis B:",
+    "options": [
+      "Family Picornaviridae, genus Enterovirus",
+      "Family Hepadnaviridae, genus Hepadnavirus",
+      "Family Picornaviridae, genus Hepadnavirus",
+      "Family Togaviridae, genus Delavivirus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Laboratory diagnosis of HIV infection for people without the symptoms includes the screening test:",
+    "options": [
+      "immunoblotting",
+      "ELISA",
+      "PCR (determination of HIV RNA)",
+      "HIV isolation"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Prions cause the following infectious diseases, except:",
+    "options": [
+      "Creutzfeldt-Jakob disease",
+      "Kuru disease",
+      "Subacute sclerosing panencephalitis",
+      "Fatal familial insomnia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Localization of Entamoeba in the human body:",
+    "options": [
+      "The large intestine",
+      "Blood",
+      "Liver",
+      "Small intestine"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Factors of pathogenicity of staphylococci, causing food intoxication:",
+    "options": [
+      "Plasmacoagulase",
+      "Hemolysins",
+      "Enterotoxin",
+      "Exfoliative toxin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Inhibitors of synthesis and functions of the bacterial cell wall:",
+    "options": [
+      "Macrolides",
+      "beta-lactams",
+      "Polyenes",
+      "Aminoglycosides"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "How many serotypes of poliomyelitis virus are detected:",
+    "options": [
+      "2 serotypes",
+      "3 serotypes",
+      "5 serotypes",
+      "6 serotypes"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "True about causative agent of diphtheria is:",
+    "options": [
+      "Lysogenic phage causes infection",
+      "Capsulated bacteria causes infection",
+      "Gram negative",
+      "Motile"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Untrue about Clostridium tetani is:",
+    "options": [
+      "Motile",
+      "All manifestations due to endotoxin",
+      "Drum stick spores at the end",
+      "Gram positive"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For specific prevention of whooping cough vaccine is used:",
+    "options": [
+      "SABIN",
+      "DPT",
+      "MMR",
+      "BCG"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Transmission of anthrax causative agent NOT carried out by:",
+    "options": [
+      "Contact",
+      "Sexual Way",
+      "Alimentary way",
+      "Airborne dust"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Toxoid is prepared from:",
+    "options": [
+      "Exotoxin",
+      "Live bacteria",
+      "Endotoxin",
+      "Killed bacteria"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The carriers of the Lyme disease pathogen are:",
+    "options": [
+      "Lice",
+      "Fleas",
+      "Ticks",
+      "Mosquitoes"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which colonies form Escherichia on MacConkey's medium:",
+    "options": [
+      "Purple",
+      "Blue",
+      "Dark red with a metallic sheen",
+      "Colorless"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "For the treatment of botulism is used:",
+    "options": [
+      "bacteriophage",
+      "antitoxic serum",
+      "interferon",
+      "toxoid"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Antiseptic is:",
+    "options": [
+      "Destruction measures of microbes in the pathological lesions, wound, etc.",
+      "Destruction and removal of infectious agents from environmental objects",
+      "Prevention of contamination of objects or wounds by germs",
+      "Complete destruction of microbes and spores from the object"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "An antibiotic that inhibit proteins production:",
+    "options": [
+      "nystatin",
+      "rifampicin",
+      "penicillin",
+      "tetracycline"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "All antibiotics are aminoglycosides, except:",
+    "options": [
+      "erythromycin",
+      "kanamycin",
+      "gentamycin",
+      "streptomycin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "For treatment of trichomonosis is used:",
+    "options": [
+      "Acyclovir",
+      "Metronidazole",
+      "Nystatin",
+      "Bicillins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "True about Neisseria meningitidis is:",
+    "options": [
+      "All manifestations due to endotoxin",
+      "Drum stick spores at the end",
+      "Gram positive",
+      "Obligate anaerobes"
+    ],
+    "correct": 0
+  }
+]

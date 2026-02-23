@@ -1,0 +1,502 @@
+[
+  {
+    "question": "The primary habitat of Salmonella typhi is:",
+    "options": [
+      "Humans only",
+      "Cattle",
+      "Poultry",
+      "Water"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Widal test detects antibodies against:",
+    "options": [
+      "O and H antigens of Salmonella",
+      "Vi antigen",
+      "Capsular antigen",
+      "Flagellar antigen only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A positive Widal test with rising O antibody titre indicates:",
+    "options": [
+      "Active infection",
+      "Past infection",
+      "Vaccination",
+      "Carrier state"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The Vi antigen of Salmonella typhi is associated with:",
+    "options": [
+      "Virulence and carrier state",
+      "Motility",
+      "Toxin production",
+      "Spore formation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Shigella species are:",
+    "options": [
+      "Non-motile",
+      "Motile",
+      "Encapsulated",
+      "Spore-forming"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The most severe form of shigellosis is caused by:",
+    "options": [
+      "Shigella dysenteriae type 1",
+      "Shigella flexneri",
+      "Shigella boydii",
+      "Shigella sonnei"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The mildest form of shigellosis is caused by:",
+    "options": [
+      "Shigella sonnei",
+      "Shigella flexneri",
+      "Shigella boydii",
+      "Shigella dysenteriae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Klebsiella granulomatis causes:",
+    "options": [
+      "Donovanosis (Granuloma inguinale)",
+      "Chancroid",
+      "Lymphogranuloma venereum",
+      "Syphilis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Donovan bodies are seen in:",
+    "options": [
+      "Granuloma inguinale",
+      "Chancroid",
+      "Syphilis",
+      "Lymphogranuloma venereum"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The organism causing Lymphogranuloma venereum is:",
+    "options": [
+      "Chlamydia trachomatis L1-L3",
+      "Chlamydia trachomatis D-K",
+      "Chlamydia psittaci",
+      "Chlamydia pneumoniae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trachoma is caused by:",
+    "options": [
+      "Chlamydia trachomatis serovars A-C",
+      "Chlamydia trachomatis D-K",
+      "Chlamydia psittaci",
+      "Chlamydia pneumoniae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Inclusion conjunctivitis is caused by:",
+    "options": [
+      "Chlamydia trachomatis serovars D-K",
+      "Chlamydia trachomatis A-C",
+      "Chlamydia psittaci",
+      "Chlamydia pneumoniae"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chlamydia are considered:",
+    "options": [
+      "Obligate intracellular parasites",
+      "Facultative intracellular",
+      "Extracellular",
+      "Free-living"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The infectious form of Chlamydia is called:",
+    "options": [
+      "Elementary body",
+      "Reticulate body",
+      "Initial body",
+      "Condyloma"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The replicative form of Chlamydia is called:",
+    "options": [
+      "Reticulate body",
+      "Elementary body",
+      "Initial body",
+      "Inclusion body"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chlamydia trachomatis can be cultured in:",
+    "options": [
+      "McCoy cells",
+      "Blood agar",
+      "MacConkey agar",
+      "Sabouraud agar"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chlamydia psittaci causes:",
+    "options": [
+      "Psittacosis (ornithosis)",
+      "Trachoma",
+      "LGV",
+      "Pneumonia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chlamydia pneumoniae causes:",
+    "options": [
+      "Community-acquired pneumonia",
+      "Trachoma",
+      "LGV",
+      "Psittacosis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mycoplasma pneumoniae causes:",
+    "options": [
+      "Atypical pneumonia",
+      "Typical pneumonia",
+      "Meningitis",
+      "Urinary tract infection"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mycoplasma lack:",
+    "options": [
+      "Cell wall",
+      "Cell membrane",
+      "DNA",
+      "Ribosomes"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The smallest free-living microorganisms are:",
+    "options": [
+      "Mycoplasma",
+      "Chlamydia",
+      "Rickettsia",
+      "Viruses"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "\"Fried-egg\" appearance on agar is characteristic of:",
+    "options": [
+      "Mycoplasma colonies",
+      "Chlamydia inclusions",
+      "Bacterial L-forms",
+      "Fungal colonies"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ureaplasma urealyticum is associated with:",
+    "options": [
+      "Non-gonococcal urethritis",
+      "Pneumonia",
+      "Meningitis",
+      "Trachoma"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rickettsia are:",
+    "options": [
+      "Obligate intracellular bacteria",
+      "Free-living bacteria",
+      "Fungi",
+      "Viruses"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rickettsia are transmitted by:",
+    "options": [
+      "Arthropod vectors",
+      "Airborne droplets",
+      "Fecal-oral route",
+      "Sexual contact"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Epidemic typhus is caused by:",
+    "options": [
+      "Rickettsia prowazekii",
+      "Rickettsia typhi",
+      "Rickettsia rickettsii",
+      "Orientia tsutsugamushi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Murine (endemic) typhus is caused by:",
+    "options": [
+      "Rickettsia typhi",
+      "Rickettsia prowazekii",
+      "Rickettsia rickettsii",
+      "Orientia tsutsugamushi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Rocky Mountain spotted fever is caused by:",
+    "options": [
+      "Rickettsia rickettsii",
+      "Rickettsia prowazekii",
+      "Rickettsia typhi",
+      "Coxiella burnetii"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Scrub typhus is caused by:",
+    "options": [
+      "Orientia tsutsugamushi",
+      "Rickettsia typhi",
+      "Rickettsia prowazekii",
+      "Coxiella burnetii"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Q fever is caused by:",
+    "options": [
+      "Coxiella burnetii",
+      "Rickettsia rickettsii",
+      "Rickettsia prowazekii",
+      "Chlamydia psittaci"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Coxiella burnetii differs from other rickettsiae by:",
+    "options": [
+      "Not requiring arthropod vector",
+      "Forming spore-like forms",
+      "Resistant to heat and drying",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Weil-Felix reaction is based on:",
+    "options": [
+      "Cross-reaction with Proteus antigens",
+      "Agglutination of rickettsiae",
+      "Complement fixation",
+      "ELISA"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Borrelia recurrentis causes:",
+    "options": [
+      "Relapsing fever",
+      "Lyme disease",
+      "Syphilis",
+      "Leptospirosis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Lyme disease is caused by:",
+    "options": [
+      "Borrelia burgdorferi",
+      "Borrelia recurrentis",
+      "Treponema pallidum",
+      "Leptospira interrogans"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The characteristic rash of Lyme disease is:",
+    "options": [
+      "Erythema migrans",
+      "Erythema nodosum",
+      "Maculopapular rash",
+      "Vesicular rash"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Leptospira interrogans causes:",
+    "options": [
+      "Leptospirosis (Weil's disease)",
+      "Syphilis",
+      "Lyme disease",
+      "Relapsing fever"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Leptospira are visualized by:",
+    "options": [
+      "Darkfield microscopy",
+      "Gram stain",
+      "Acid-fast stain",
+      "India ink"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The natural habitat of Leptospira is:",
+    "options": [
+      "Kidneys of carrier animals",
+      "Human blood",
+      "Soil",
+      "Water only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Treponema pallidum cannot be cultured on:",
+    "options": [
+      "Artificial media",
+      "Cell culture",
+      "Both artificial media and cell culture",
+      "Egg culture"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The VDRL test detects:",
+    "options": [
+      "Reagin antibodies",
+      "Anti-treponemal antibodies",
+      "Anticardiolipin antibodies",
+      "Both 1 and 3"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The most specific test for syphilis is:",
+    "options": [
+      "FTA-ABS",
+      "VDRL",
+      "RPR",
+      "Darkfield microscopy"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Primary syphilis is characterized by:",
+    "options": [
+      "Chancre",
+      "Rash",
+      "Gumma",
+      "Meningitis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Secondary syphilis is characterized by:",
+    "options": [
+      "Maculopapular rash",
+      "Chancre",
+      "Gumma",
+      "Tabes dorsalis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tertiary syphilis is characterized by:",
+    "options": [
+      "Gumma formation",
+      "Chancre",
+      "Rash",
+      "Chancre"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Congenital syphilis can cause:",
+    "options": [
+      "Hutchinson's teeth",
+      "Saddle nose",
+      "Interstitial keratitis",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Actinomyces are:",
+    "options": [
+      "Filamentous Gram-positive bacteria",
+      "Fungi",
+      "Viruses",
+      "Protozoa"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Actinomycosis is characterized by:",
+    "options": [
+      "Sulfur granules in pus",
+      "Caseous necrosis",
+      "Acid-fast bacilli",
+      "Negri bodies"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Nocardia differs from Actinomyces by being:",
+    "options": [
+      "Partially acid-fast",
+      "Gram-negative",
+      "Spore-forming",
+      "Non-filamentous"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Nocardia causes:",
+    "options": [
+      "Pulmonary nocardiosis",
+      "Mycetoma",
+      "Brain abscess",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The drug of choice for nocardiosis is:",
+    "options": [
+      "Sulfonamides",
+      "Penicillin",
+      "Tetracycline",
+      "Amphotericin B"
+    ],
+    "correct": 0
+  }
+]
