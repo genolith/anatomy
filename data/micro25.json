@@ -1,0 +1,251 @@
+[
+  {
+    "question": "Bacteriological methods are not used in the microbiological diagnosis of syphilis because:",
+    "options": [
+      "Pathogenic treponemes do not grow on artificial culture media",
+      "L-forms and filterable forms of treponemes exist",
+      "Treponemes have a complex antigenic structure",
+      "Treponemes are causative agents of especially dangerous infections"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Enteropathogenic Escherichia coli are characterized by:",
+    "options": [
+      "The ability to multiply on the surface of the small intestinal epithelium, leading to destruction of microvilli and damage to the apical surface of epithelial cells",
+      "The ability to adhere to the surface of colonic epithelial cells",
+      "Inability to grow on culture media",
+      "Spore formation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is NOT an antiviral drug?",
+    "options": [
+      "Acyclovir",
+      "Interferon",
+      "Ciprofloxacin",
+      "Rimantadine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The H antigen of Enterobacteriaceae is:",
+    "options": [
+      "A lipopolysaccharide",
+      "A polysaccharide",
+      "A protein",
+      "A lipid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following belongs to macrolides?",
+    "options": [
+      "Erythromycin",
+      "Ciprofloxacin",
+      "Nystatin",
+      "Amoxicillin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Culture media used for identification of bacteria based on biochemical properties include:",
+    "options": [
+      "Blood agar",
+      "Giss's media",
+      "Blood agar",
+      "Ru medium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Rickettsiae cannot grow on artificial culture media because they are:",
+    "options": [
+      "Viruses",
+      "Obligate intracellular parasitic bacteria",
+      "Prions",
+      "Protozoa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The method used to stain bacterial capsules is:",
+    "options": [
+      "Burri-Gins",
+      "Ozheshko",
+      "Neisser",
+      "Ziehl-Neelsen"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Influenza virus antigens include all of the following EXCEPT:",
+    "options": [
+      "S (nucleoprotein)",
+      "H (hemagglutinin)",
+      "H (flagellar antigen)",
+      "N (neuraminidase)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which stage of infectious disease is characterized by the appearance of specific symptoms?",
+    "options": [
+      "Period of illness (peak)",
+      "Prodromal period",
+      "Convalescence",
+      "Incubation period"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Inhibitors of bacterial cell wall synthesis include:",
+    "options": [
+      "Tetracycline",
+      "Beta-lactams",
+      "Aminoglycosides",
+      "Polymyxins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The transmission route of hemorrhagic fever with renal syndrome (HFRS) is:",
+    "options": [
+      "Hematogenous",
+      "Sexual",
+      "Airborne-dust",
+      "Vector-borne (transmissive)"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The primary medium used for isolation of Enterobacteriaceae is:",
+    "options": [
+      "Blood agar",
+      "Endo agar",
+      "Sabouraud agar",
+      "Meat-peptone agar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Facultative anaerobes grow:",
+    "options": [
+      "Only at low oxygen concentrations",
+      "Only in the absence of oxygen",
+      "Both in the presence and absence of oxygen"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Recombinant vaccines are used for specific prophylaxis against which viral infection?",
+    "options": [
+      "Poliomyelitis",
+      "Rubella",
+      "Measles",
+      "Hepatitis B"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Yolk-salt agar is used for culturing staphylococci because:",
+    "options": [
+      "They are halophilic bacteria that grow well at high NaCl concentrations (10-15%)",
+      "NaCl in the medium serves as a growth supplement",
+      "NaCl is used to adjust pH",
+      "This medium is used to assess biochemical properties"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Administration of immune sera induces:",
+    "options": [
+      "Artificial active immunity",
+      "Artificial passive immunity",
+      "Natural passive immunity",
+      "Natural active immunity"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ziehl-Neelsen staining is used to detect tuberculosis pathogens because mycobacteria:",
+    "options": [
+      "Can grow in L-forms",
+      "Are acid-, alcohol-, and alkali-resistant due to high lipid content (including mycolic acids) in their cell walls",
+      "Exhibit pronounced pleomorphism",
+      "Have low metabolic activity"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Morphological and staining characteristics of Streptococcus pneumoniae:",
+    "options": [
+      "Non-encapsulated",
+      "Gram-positive rods",
+      "Gram-positive cocci arranged in \"packets\"",
+      "Gram-positive lancet-shaped cocci arranged in pairs"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Intrauterine fetal infection is possible in which of the following diseases?",
+    "options": [
+      "Measles",
+      "Rubella",
+      "Scarlet fever",
+      "Mumps"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The Mantoux test is used to diagnose infection caused by:",
+    "options": [
+      "Mycobacteria",
+      "Vibrio",
+      "Treponema",
+      "Helicobacter"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Treatment of herpesvirus infection includes:",
+    "options": [
+      "Arbidol",
+      "Rimantadine",
+      "Penicillin",
+      "Acyclovir"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Immunity in tuberculosis is characterized as:",
+    "options": [
+      "Innate",
+      "Transplacentally transmitted",
+      "Non-sterilizing",
+      "Antitoxin-mediated"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Tinctorial properties refer to the ability to:",
+    "options": [
+      "Ferment carbohydrates",
+      "Take up stains",
+      "Form spores",
+      "Grow on culture media"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The culture medium used for cultivating the causative agent of tetanus is:",
+    "options": [
+      "Kitt-Tarozzi medium",
+      "Giss's medium",
+      "Lowenstein-Jensen medium",
+      "Endo agar"
+    ],
+    "correct": 0
+  }
+]
