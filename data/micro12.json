@@ -1,0 +1,2295 @@
+[
+  {
+    "question": "1- The condition, when bacteria multiply in the blood, is called:",
+    "options": [
+      "a. Bacteremia",
+      "b. Septicopyomia",
+      "c. Virusemia",
+      "d. Sepsis"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "2- Relapse is called:",
+    "options": [
+      "a. Disease caused by infection with a new pathogen in the background of an unfinished initial infectious disease",
+      "b. Disease caused by human infection with the same pathogen before recovery",
+      "c. Return of the disease due to remaining pathogens in the body",
+      "d. Disease that occurs after a previous infection with a second infection with the same pathogen"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "3- What statement about the properties of exotoxins is incorrect:",
+    "options": [
+      "a. By chemical nature - proteins",
+      "b. Highly toxic",
+      "c. Possess organotropicity",
+      "d. Low in toxicity"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "4- What statement about the properties of endotoxins is incorrect:",
+    "options": [
+      "a. On the chemical structure - lipopolysaccharides",
+      "b. Thermostable",
+      "c. Less toxic",
+      "d. Highly toxic"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "5- Reinfection is called:",
+    "options": [
+      "a. Return of the disease due to remaining pathogens in the body",
+      "b. Disease caused by human infection with the same pathogen before recovery",
+      "c. Disease caused by infection with a new pathogen in the background of an unfinished initial infectious disease",
+      "d. Disease that occurs after a previous infection with a second infection with the same pathogen"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "6- Vaccines made from live microbes or viruses that have lost virulence factors but retained immunogenic properties:",
+    "options": [
+      "a. Molecular vaccines",
+      "b. Anatoxins",
+      "c. Attenuated vaccines",
+      "d. Killed vaccines"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "7- Preparations named immunoglobulins are used for:",
+    "options": [
+      "a. Diagnosis of infectious diseases",
+      "b. Vaccine production",
+      "c. Treatment of infectious diseases",
+      "d. Specific prevention of infectious diseases"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "8- Antitoxins (antitoxic sera) are used for:",
+    "options": [
+      "a. For the prevention of fungal infections",
+      "b. For the prevention of infections, caused by protozoa",
+      "c. For the treatment of bacterial infections",
+      "d. For the treatment of viral infections"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "9- Toxoids are prepared of:",
+    "options": [
+      "a. inactivated cultures of microbes",
+      "b. endotoxins of bacteria",
+      "c. exotoxins of bacteria in non-toxic form",
+      "d attenuated strains of microbes"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "10- Vaccines are used for:",
+    "options": [
+      "a. For the prevention of allergic reactions",
+      "b. For the diagnosis of infectious diseases",
+      "c. For the treatment of food poisonings",
+      "d. For the specific prevention of infectious diseases"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "11- Morphological and staining properties of the causative agent of anthrax DO NOT include:",
+    "options": [
+      "a. Gram-positive rods arranged in a chain",
+      "b. Formation of a capsule",
+      "c. Forms a centrally located spore whose diameter does not exceed the diameter of the cell",
+      "d. Motile by flagella"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "12- The reservoir of the causative agent of anthrax is:",
+    "options": [
+      "a. Cattle",
+      "b. A sick person",
+      "c. Birds",
+      "d. Bloodsucking insects"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "13- Antigens of the causative agent of anthrax in products from contaminated raw materials (fur, leather, wool), cadaveric material are detected by the test:",
+    "options": [
+      "a. Wasserman",
+      "b. Ascoli",
+      "c. Vidal",
+      "d. Haddelson"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "14- Transmission of anthrax causative agent is NOT carried out by:",
+    "options": [
+      "a. Sexual Way",
+      "b. Food",
+      "c. Contact",
+      "d. Airborne dust"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "15- Morphological and staining properties of causative agent of anthrax include:",
+    "options": [
+      "a. Gram-negative diplococci of the bean-shaped form",
+      "b. Gram-positive rods",
+      "c. Gram-negative rods",
+      "d. Gram-positive cocci"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "16- Syphilis is characterized by the following features, except:",
+    "options": [
+      "a. Long lasting resistant immunity",
+      "b. Disease has 3 stages",
+      "c. The formation of \"hard chancre\"",
+      "d. High contagiousness"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "17- The main factor of pathogenicity of gonococci is:",
+    "options": [
+      "a. Erythrogenin",
+      "b. Endotoxin",
+      "c. Leucocidin",
+      "d. Exfoliatin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "18- Morphological and staining properties of gonococci include:",
+    "options": [
+      "a. Gram-negative diplococci of the bean-shaped form",
+      "b. Spore formation",
+      "c. Gram-positive diplococci of the lanceolate form",
+      "d. Mobility"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "19- Morphological and staining properties of the causative agent of syphilis:",
+    "options": [
+      "a. Movable convoluted spiral-shaped bacteria with regular curls. According to Romanovsky-Giemsa stained in pale pink color",
+      "b. Spiral bacteria with large irregular curls and with pointed ends. They are painted by Romanovsky-Giemsa in blue-violet color",
+      "c. Gram-negative, convoluted bacteria, arranged in groups in the form of “flying seagull wings”",
+      "d. Motile helical bacteria with small primary and large secondary curls and curved ends in the form of the letter “C” and “S” to Romanovsky-Giemsa stained in pale pink color"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "20- The causative agents of tuberculosis grow on the medium:",
+    "options": [
+      "a. MacConkey",
+      "b. Robertson’s cooked meat medium",
+      "c. Lowenstein-Jensen",
+      "d. Bordet Gengou",
+      "e. Nutrient agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "21- For the treatment of diphtheria is used:",
+    "options": [
+      "a. Toxoid",
+      "b. Sulfonamides",
+      "c. Anti-toxic serum",
+      "d. Specific bacteriophage"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "22- The main pathogenicity factor of the causative agent of diphtheria is:",
+    "options": [
+      "a. Exotoxin",
+      "b. Flagella",
+      "c. Endotoxin",
+      "d. Capsule"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "23- For the treatment of tuberculosis, the following drugs are used, except:",
+    "options": [
+      "a. Ethambutol",
+      "b. Rifampicin",
+      "c. Isoniazid",
+      "d. Metronidazole",
+      "e. Streptomycin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "24- Lactose fermentation is typical for:",
+    "options": [
+      "a. E. coli",
+      "b. S.typhimurium",
+      "c. S.typhi",
+      "d. Sh.flexneri"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "25- H-antigen of enterobacteriaceae is a part of:",
+    "options": [
+      "a. plasma membrane",
+      "b. flagella",
+      "c. cell wall",
+      "d. saw",
+      "e. capsules"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "26- Pathogenic escherichias are differentiated from opportunistic:",
+    "options": [
+      "a. by antigenic properties",
+      "b. by the ability to ferment lactose",
+      "c. by color of colonies on Endo medium",
+      "d. by the ability to ferment glucose"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "27- To diagnose diseases caused by pathogenic E. coli, the inoculation of feces is carried out:",
+    "options": [
+      "a. on salt agar",
+      "b. on blood agar",
+      "c. MacConkey's medium",
+      "d. on alkaline agar",
+      "e. on bismuth sulfite agar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "28- For the treatment of botulism is used:",
+    "options": [
+      "a. Specific bacteriophages",
+      "b. Isoniazid",
+      "c. Pyrazinamide",
+      "d. Anti-toxic serum",
+      "e. Toxoid"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "29- Cultural properties of the causative agent of botulism:",
+    "options": [
+      "a. Aerobic, grows on basal nutrient media",
+      "b. Strict aerobic. Grows on blood glucose agar",
+      "c. Strict aerobic.Grows on MacConkey medium",
+      "d. Strict anaerobic, grows on RCM broth",
+      "e. Aerobic, grows on simple nutrient media"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "30- The causative agent of botulism releases the following toxin:",
+    "options": [
+      "a. Dermonecrotoxin",
+      "b. Neurotoxin",
+      "c. Hemolysin",
+      "d. Leukocidin",
+      "e. Enterotoxin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "31- For specific prevention of botulism, the following is used:",
+    "options": [
+      "a. Bacteriophage",
+      "b. Killed vaccine",
+      "c. Immunoglobulin",
+      "d. Toxoid",
+      "e. Live vaccine"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "32- The causative agents of influenza epidemics are more often influenza viruses:",
+    "options": [
+      "a. Type A",
+      "b. Type B",
+      "c. Type E",
+      "d. Type D"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "33- For the prophylaxis of influenza, the following drugs are used, except:",
+    "options": [
+      "a. Molecular vaccines",
+      "b. Live vaccines",
+      "c. Toxoid",
+      "d. Inactivated vaccines"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "34- For the treatment of influenza, the following drugs are used, except:",
+    "options": [
+      "a. Metronidazole",
+      "b. Rimantadin",
+      "c. Interferon",
+      "d. Ozeltamivir",
+      "e. Immunoglobulin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "35- Possible outcomes of the disease with hepatitis B (all are true, except):",
+    "options": [
+      "a. infertility",
+      "b. liver carcinoma",
+      "c. cirrhosis",
+      "d. recovery with the formation of lifelong immunity",
+      "e. chronic active hepatitis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "36- Routes of transmission for hepatitis C (all are true except):",
+    "options": [
+      "a. tatoo procedure",
+      "b. by infected water",
+      "c. blood transfusion",
+      "d. from mother to fetus",
+      "e. by sexual contact"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "37- Routes of transmission for hepatitis A (all are true, except):",
+    "options": [
+      "a. with infected water",
+      "b. through household items of the patient",
+      "c. through dirty hands",
+      "d. with infected foods",
+      "e. from mother to fetus"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "38- Hepatitis E is most unfavorable in:",
+    "options": [
+      "a. elderly patients",
+      "b. pregnant women",
+      "c. young children",
+      "d. school children and adolescents"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "39- Prevention of hepatitis D:",
+    "options": [
+      "a. compliance with the rules of personal and public hygiene",
+      "b. interferon",
+      "c. hepatitis B vaccination",
+      "d. hepatitis A vaccination",
+      "e. immunoglobulin"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "40- In case of dermatomycoses, the material for research is not:",
+    "options": [
+      "a. nails",
+      "b. hair",
+      "c. sputum",
+      "d. skin scrapings"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "41- The causative agents of dermatomycoses are the following, with the exception of:",
+    "options": [
+      "a. Trichophyton rubrum",
+      "b. Microsporum canis",
+      "c. Histoplasma capsulatum",
+      "d. Epidermophyton floccosum"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "42- The clinical manifestations of candidiasis include the following, with the exception of:",
+    "options": [
+      "a. Conjunctivitis",
+      "b. Systemic candidiasis",
+      "c. Superficial candidiasis",
+      "d. Visceral candidiasis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "43- When examining washings from the hands of personnel, inoculation is performed on the following medium",
+    "options": [
+      "a. Kessler",
+      "b. Sabouraud's agar",
+      "c. 0.1% peptone water",
+      "d. salt solution"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "44- To determine the total number of bacteria, air is inoculated in volume:",
+    "options": [
+      "a. 150 l",
+      "b. 200 l",
+      "c. 250 l",
+      "d. 100 l"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "45- For the detection of molds and yeasts-like fungi in purified water Saburo's medium is incubated in a thermostat at a temperature:",
+    "options": [
+      "a. 15 оС",
+      "b. 30 оС",
+      "c. 22 оС",
+      "d. 37 оС"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "46- Spiral bacteria belong to genus:",
+    "options": [
+      "a. Neisseria",
+      "b. Staphylococcus",
+      "c. Rickettsia",
+      "d. Borrelia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "47- For the staining of acid-fast bacteria, the method is used:",
+    "options": [
+      "a. Ziehl–Neelsen method",
+      "b. Neisser method",
+      "c. Gram method",
+      "d. Giemsa method"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "48- Capsule of bacteria is detected by:",
+    "options": [
+      "a. Burry Gins method",
+      "b. Gram method",
+      "c. Giemsa method",
+      "d. Ziehl–Neelsen method"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "48- Dimorphic fungi are able to form different structures: Select one:",
+    "options": [
+      "a. At presence of UV rays",
+      "b. At presence of oxygen",
+      "c. At different temperature",
+      "d. At presences of chemicals"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "49- Morphology of Entamoeba: Select one:",
+    "options": [
+      "a. Has a pear-shaped form, 4 anterior flagella",
+      "b. Has a pear-like shape, 2 nuclei.",
+      "c. Has the shape of an orange slice, 1 nucleus",
+      "d. Non certain shape, 1 nucleus, cyst forming"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "50- Under a microscope, you found cocci shape bacteria, arrangemeted in chain: Select one:",
+    "options": [
+      "a. Streptococcus",
+      "b. Staphylococcus",
+      "c. Escherichia",
+      "d. Mycoplasma"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "51- Naked viruses have no:",
+    "options": [
+      "a. Capsid",
+      "b. Envelope",
+      "c. Nucleic acid",
+      "d. Spikes"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "52- Prions are presented:",
+    "options": [
+      "a. Polysaccharides",
+      "b. DNA",
+      "c. Proteins",
+      "d. RNA"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "53- The color of Gram-negative bacteria is:",
+    "options": [
+      "a. Violet",
+      "b. Blue",
+      "c. Yellow",
+      "d. Red"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "54- The glycoprotein structure of the virus has:",
+    "options": [
+      "a. Replication enzymes",
+      "b. Capsid",
+      "c. Envelope",
+      "d. Spikes"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "55- Which is an obligate intracellular organism?",
+    "options": [
+      "a. Clostridium",
+      "b. Campylobacter",
+      "c. Chlamydia",
+      "d. Borrelia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "56- Gram-positive bacteria include pathogens:",
+    "options": [
+      "a. Shigella",
+      "b. Escherichia",
+      "c. Bacillus",
+      "d. Salmonella"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "57- Bacteria having flagella:",
+    "options": [
+      "a. Staphylococcus",
+      "b. Streptococcus",
+      "c. Neisseria",
+      "d. Vibrio"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "58- Filamentous bacteria include:",
+    "options": [
+      "a. Mycobacterium",
+      "b. Campylobacter",
+      "c. Neisseria",
+      "d. Vibrio"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "59- Acid-fast bacteria are:",
+    "options": [
+      "a. Mycobacteria",
+      "b. Mycoplasma",
+      "c. Staphylococci",
+      "d. Rickettsia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "60- Under a microscope, you found bacteria with rod shape, rounded ends, gram negative:",
+    "options": [
+      "a. Staphylococcus",
+      "b. Streptococcus",
+      "c. Mycoplasma",
+      "d. Escherichia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "61- The characteristics of viruses includes:",
+    "options": [
+      "a. Infectious \"protein particles”",
+      "b. Reproduce outside the living cell",
+      "c. Single-celled life forms",
+      "d. Not able to reproduce outside a living cell"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "62- Under the microscope, you found cocci bean-shaped, stained in red color:",
+    "options": [
+      "a. Klebsiella",
+      "b. Gonococcus",
+      "c. Streptococcus",
+      "d. Bacillus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "63- Bacteria that form spores belong to genus:",
+    "options": [
+      "a. Mycoplasma",
+      "b. Streptococcus",
+      "c. Escherichia",
+      "d. Clostridium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "64- Bacteria having a spherical shape:",
+    "options": [
+      "a. Klebsiella",
+      "b. Vibrio",
+      "c. Mycobacterium",
+      "d. Gonococci"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "65- Property of Trichomonas",
+    "options": [
+      "a. Has the shape of an orange slice, 1 nucleus",
+      "b. Has a pear-like shape, 2 nuclei.",
+      "c. Rod-shaped, 1 nucleus, 1 flagella",
+      "d. Has a pear-shaped form, central nucleous, 4 anterior flagella"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "66- Differential-diagnostic media are:",
+    "options": [
+      "a. Used for cultivation of microbes demanding to nutrient media",
+      "b. Media that allow to distinguish some species of bacteria from others by their enzymatic activity.",
+      "c. Inhibiting the growth of certain microbes and promoting the growth of others",
+      "d. Containing pieces of internal organs and tissues of an animal or human."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "67- Saccharolytic properties of bacteria are usually determined on a medium:",
+    "options": [
+      "a. Robertson’s Cooked Meat broth",
+      "b. Nutrient agar",
+      "c. Blood agar",
+      "d. Hiss media"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "68- Bactriophages are not used for:",
+    "options": [
+      "a. Treatment of bacterial infections",
+      "b. Determination ofspecies of bacteria",
+      "c. Determination of the phage type of bacteria",
+      "d. Treatment of viral infections"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "69- Selective nutrient media are media:",
+    "options": [
+      "a. Designed to isolate certain types of bacteria, while the growth of other types of bacteria is suspended or slowed down",
+      "b. Designed for the cultivation of whimsical bacteria that need a large number of nutrients",
+      "c. Used to study the biochemical properties of bacteria",
+      "d. Designed to isolate most species of bacteria"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "70- In a healthy person, the following organs do not contain bacteria: Select one:",
+    "options": [
+      "a. Lymph nodes",
+      "b. Stomach",
+      "c. Eyes",
+      "d. Mouth"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "71- Transformation is carried out with the help of:",
+    "options": [
+      "a. Temperate bacteriophage",
+      "b. Fertility factor (F plasmid)",
+      "c. Mutation",
+      "d. DNA of donor cell"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "72- Methods of cultivation of obligate aerobic bacteria:",
+    "options": [
+      "a. In the presence of CO2",
+      "b. In the presence of oxygen",
+      "c. In the presence of a small amount of oxygen",
+      "d. In the absence of oxygen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "73- Proteolytic properties of bacteria - is ability:",
+    "options": [
+      "a. To ferment sugars",
+      "b. To produce a oxidase",
+      "c. Break down proteins with indole and hydrogen sulphide production",
+      "d. To produce a catalase"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "74- Plasmid - multidrug resistance factor of bacteria:",
+    "options": [
+      "a. Col-plasmid",
+      "b. F-plasmid",
+      "c. R-plasmid",
+      "d. Ent plasmid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "75- To differential-diagnostic media include the following , except:",
+    "options": [
+      "a. Peptone ater",
+      "b. Robertson’s Cooked Meat broth",
+      "c. MacConkey agar",
+      "d. Hiss with sugars"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "76- Proteolytic properties of bacteria are usually determined on media:",
+    "options": [
+      "a. MacConkey agar",
+      "b. Meat peptone broth",
+      "c. Peptone water",
+      "d. Robertson’s cooked meat medium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "77- Bacteriophages are not isolated from:",
+    "options": [
+      "a. Soil",
+      "b. Sterile objects",
+      "c. Sewage",
+      "d. Material from the patient"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "78- Aseptic is:",
+    "options": [
+      "a. Destruction measures of microbes in the pathological focus, wound, etc.",
+      "b. Complete destruction of microbes from the object",
+      "c. Prevention of microbial contamination (sterilization of medicines, bandage, surgical tools, air at operation theatre, test tubes, media and so on)",
+      "d. Destruction and removal of infectious agents from environmental objects"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "79- Which method of sterilization is not physical:",
+    "options": [
+      "a. gas sterilization",
+      "b. Gamma-rays sterilization",
+      "c. sterilization in flame",
+      "d. sterilization with ultraviolet rays"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "80- The positive role of the normal microbial flora of a human beings includes the folloing, except::",
+    "options": [
+      "a. Participates in the formation of lymphoid tissue",
+      "b. Promotes digestion",
+      "c. It has antagonistic properties against pathogenic microorganisms",
+      "d. Protects the body from the effects of radiation"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "81- Property of prophage:",
+    "options": [
+      "a. It is used for identification of bacteria",
+      "b. Is used for phage typing of bacteria",
+      "c. Used for treatment",
+      "d. It is included in the genome of a bacterial"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "82- Genotypic variability is not observed as a result of:",
+    "options": [
+      "a. mutations",
+      "b. transduction",
+      "c. loss of cell wall under the influence of penicillin",
+      "d. transformation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "83- Methods of cultivation of obligate anaerobic bacteria:",
+    "options": [
+      "a. In the presence of a small amount of oxygen",
+      "b. In the presence of oxygen",
+      "c. In the absence of oxygen",
+      "d. In the presence of CO2"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "84- Transduction is carried out with the help of:",
+    "options": [
+      "a. DNA of donor cell",
+      "b. Fertility factor (F plasmid)",
+      "c. Temperate bacteriophage",
+      "d. Mutation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "85- Special nutrient media are media:",
+    "options": [
+      "a. Used to study the biochemical properties of bacteria",
+      "b. Designed to isolate certain types of bacteria, while the growth of other types of bacteria is suspended or slowed down",
+      "c. Designed to isolate most species of bacteria",
+      "d. Are used to obtain the growth of fastidious bacteria that do not grow or grow very poorly on basal nutrient media."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "86- For the treatment of intestinal dysbiosis, preparations from the the following microbes are used, except:",
+    "options": [
+      "a. Saccharomyces",
+      "b. Staphylococcus",
+      "c. Bifidobacterium",
+      "d. Lactobactillus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "87- Mutations do not arise under the action of:",
+    "options": [
+      "a. Excess of nutrients",
+      "b. Acrydine dyes",
+      "c. Ultraviolet rays",
+      "d. X-rays"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "88- Spores of bacteria are destroyed by using of:",
+    "options": [
+      "a. prolonged drying",
+      "b. autoclave",
+      "c. ultraviolet rays",
+      "d. toxic gases"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "89- What objects are sterilized in a Pasteur oven by using of dry heat:",
+    "options": [
+      "a. Glass and metal objects",
+      "b. waste material (cultures of microbes, material from the patient, etc.)",
+      "c. disposable syringes",
+      "d. basic nutrient media"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "90- Saccharolytic properties of bacteria is ability:",
+    "options": [
+      "a. Grow on liquid nutrient medium with sugars, forming in it acidic and gaseous products",
+      "b. Allocate hydrogen sulphide",
+      "c. Produce indole",
+      "d. Liquefy gelatin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "91- An antibiotic that interferes with the function of the cell membrane:",
+    "options": [
+      "a. tetracycline",
+      "b. streptomycin",
+      "c. rifampicin",
+      "d. nystatin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "92- What statement about the properties of exotoxins is incorrect:",
+    "options": [
+      "a. Highly toxic",
+      "b. Possess organotropicity",
+      "c. By chemical nature - proteins",
+      "d. Low in toxicity"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "93- What antibiotic is not considered an aminoglycoside:",
+    "options": [
+      "a. gentamycin",
+      "b. erythromycin",
+      "c. kanamycin",
+      "d. streptomycin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "94- Vaccines made from live microbes that have lost virulence factors but retained immunogenic properties:",
+    "options": [
+      "a. Anatoxins",
+      "b. Molecular vaccines",
+      "c. Killed vaccines",
+      "d. Attenuated vaccines"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "95- Vaccines are used for:",
+    "options": [
+      "a. For the diagnosis of infectious diseases",
+      "b. For the treatment of dermatomycosis",
+      "c. For the prevention of infectious diseases",
+      "d. For the treatment of foodborne diseases"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "96- To prevent the emergence of drug-resistant strains of microorganisms, it is necessary:",
+    "options": [
+      "a. rational antibiotic therapy",
+      "b. chemical modification of known antibiotics with protected active groups",
+      "c. all of the above",
+      "d. finding new chemotherapeutic drugs with a different mechanism of action"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "97- The antibiotics acting on the synthesis of nucleic acids in the cell include:",
+    "options": [
+      "a. amphotericin B",
+      "b. rifampicin",
+      "c. erythromycin",
+      "d. gentamycin G"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "98- The group of macrolides include:",
+    "options": [
+      "a. tobramycin",
+      "b. griseofulvin",
+      "c. levomycetin",
+      "d. azithromycin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "99- The resistance of bacteria to antibiotics is due to the presence of:",
+    "options": [
+      "a. Ent-plasmas",
+      "b. Col-plasmids",
+      "c. Tox-plasmids",
+      "d. R-plasmids"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "100- What classes of immunoglobulins are formed in the primary immune response?",
+    "options": [
+      "a. Ig A",
+      "b. Ig M",
+      "c. Ig E",
+      "d. Ig D"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "101- For the treatment of tetanus use:",
+    "options": [
+      "a. interferon",
+      "b. bacteriophage",
+      "c. antitoxic serum",
+      "d. toxoid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "102- For the treatment of tuberculosis do not use:",
+    "options": [
+      "a. acyclovir",
+      "b. rifampicin",
+      "c. isoniazid",
+      "d. tubazid"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "103- The condition, when bacteria multiply in the blood, is called:",
+    "options": [
+      "a. Sepsis",
+      "b. Septicopyemia",
+      "c. Bacteremia",
+      "d. Virusemia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "104- β-lactam antibiotic is :",
+    "options": [
+      "a. streptomycin",
+      "b. erythromycin",
+      "c. rifampicin",
+      "d. penicillin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "105- Relapse is called:",
+    "options": [
+      "a. Disease that occurs after a previous infection with a second infection with the same pathogen Disease caused by human infection with the same pathogen before recovery",
+      "b. Return of the disease due to remaining pathogens in the body",
+      "c. Disease caused by infection with a new pathogen in the background of an unfinished initial infectious disease"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "106- What statement about the properties of endotoxins is incorrect:",
+    "options": [
+      "a. Less toxic",
+      "b. Highly toxic",
+      "c. Lipopolysaccharides",
+      "d. Thermostable"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "107- Antitoxic serum is used for:",
+    "options": [
+      "a. treatment of sepsis",
+      "b. Treatment of bacterial infections",
+      "c. prevention of dermatomycosis",
+      "d. Treatment of viral infections"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "108- Vaccine is used to prevent tuberculosis:",
+    "options": [
+      "a. MMR",
+      "b. Molecular vaccine",
+      "c. DTP",
+      "d. BCG"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "109- An antibiotic that inhibits protein synthesis on ribosomes in a bacterial cell:",
+    "options": [
+      "a. nystatin",
+      "b. streptomycin",
+      "c. rifampicin",
+      "d. penicillin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "110- Reinfection is called:",
+    "options": [
+      "a. Disease caused by human infection with the same pathogen before recovery",
+      "b. Disease that occurs after a previous infection with a second infection with the same pathogen",
+      "c. Return of the disease due to remaining pathogens in the body",
+      "d. Disease caused by infection with a new pathogen in the background of an unfinished initial infectious disease"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "111- Antitoxins are used for:",
+    "options": [
+      "a. For the prevention of fungal infections",
+      "b. For the prevention of dermatomycosis",
+      "c. For the treatment of infectious diseases",
+      "d. For the treatment of viral infections"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "112 - Specific prevention of whooping cough is carried out by:",
+    "options": [
+      "a. Live vaccine",
+      "b. DTP",
+      "c. DT",
+      "d. Antibiotics"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "113- For the treatment of tuberculosis is not used:",
+    "options": [
+      "a. Isoniazid",
+      "b. Ethambutol",
+      "c. Nystatin",
+      "d. Pyrazinamide"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "114- For the cultivation of the causative agent of leprosy apply:",
+    "options": [
+      "a. Simple nutrient media",
+      "b. Susceptible animals",
+      "c. Complex nutrient media",
+      "d. Elective media"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "115- Does not apply to the cultural properties of the plague pathogen:",
+    "options": [
+      "a. Unpretentious to nutrient media",
+      "b. S type colonies",
+      "c. Form R type colonies",
+      "d. Incubated at 28 degrees by C"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "116- The main factor of pathogenicity of meningococci is:",
+    "options": [
+      "a. Endotoxin",
+      "b. Exfoliative toxin",
+      "c. Leucocidin",
+      "d. Erythrogenic toxin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "117- For specific prophylaxis of plague, the following is used:",
+    "options": [
+      "a. Anatoxin",
+      "b. Gamma globulin",
+      "c. Antitoxin",
+      "d. Live vaccine"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "118- Meningococcal infection manifests itself in all forms, except:",
+    "options": [
+      "a. Bacteremia",
+      "b. Food poisoning",
+      "c. Carrier state",
+      "d. Nasopharyngitis"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "119- The carriers of the causative agent of Lyme disease are:",
+    "options": [
+      "a. Lice",
+      "b. Ticks",
+      "c. Fleas",
+      "d. Mosquitoes"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "120- Morphological features of the causative agent of tularemia:",
+    "options": [
+      "a. Coccobacteria",
+      "b. Form a macrocapsule",
+      "c. Movable",
+      "d. Form a centrally located spore"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "121- For the treatment of diphtheria apply:",
+    "options": [
+      "a. Specific bacteriophages",
+      "b. Isoniazid",
+      "c. Anatoxin",
+      "d. Antitoxic serum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "122- Casative agent of tuberculosis grows on media:",
+    "options": [
+      "a. RCM broth",
+      "b. Levenshtein-Jensen",
+      "c. Milk-salt agar",
+      "d. Nutrient agar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "123- Tularemia causative agent belong to the genus:",
+    "options": [
+      "a. Francisella",
+      "b. Pseudomonas",
+      "c. Yersinia.",
+      "d. Brucella."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "124- Prevention of tuberculosis includes:",
+    "options": [
+      "a. Use of MMR vaccine",
+      "b. Use of bacteriophage",
+      "c. Use of BCG vaccine",
+      "d. Use of tuberculi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "125- The causative agent of Lyme disease is:",
+    "options": [
+      "a. Mycobacterium avium",
+      "b. Brucella melitensis",
+      "c. Borrelia burgdorferi",
+      "d. Borrelia reccurentis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "126- Medium for the cultivation of the whooping cough pathogen:",
+    "options": [
+      "a. Salt agar",
+      "b. Nutrient agar",
+      "c. Bordet-Gengou medium",
+      "d. MacConkey's medium"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "127- The causative agent of intestinal yersiniosis is transmitted to the humans:",
+    "options": [
+      "a. By air",
+      "b. By food",
+      "c. From mother to fetus",
+      "d. By sexual contact"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "128- The main method of laboratory diagnosis of Escherichiosis is:",
+    "options": [
+      "a. Serological",
+      "b. Bacterioscopic",
+      "c. Skin allergy tests",
+      "d. Bacteriological"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "129- What specimen is not used for diagnosis of leptospirosis:",
+    "options": [
+      "a. Blood",
+      "b. Urine",
+      "c. Throat swab",
+      "d. Water"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "130- The causative agent of cholera has got the following antigens, except:",
+    "options": [
+      "a. O139",
+      "b. H",
+      "c. O2",
+      "d. O1"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "131- For active immunization against brucellosis, a vaccine is used:",
+    "options": [
+      "a. Chemical",
+      "b. Alive",
+      "c. Anatoxin",
+      "d. Subunit"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "132- What specimen is examined by a bacteriological method in the first week of typhoid fever:",
+    "options": [
+      "a. Blood",
+      "b. Stool",
+      "c. Urine",
+      "d. Bile"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "133- To isolate Vibrio cholera, a nutrient medium is used:",
+    "options": [
+      "a. MacConkey agar",
+      "b. Blood agar",
+      "c. Robertson's cooked meat broth",
+      "d. Alkaline agar"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "134- In the pathogenesis of botulism, the main role is played by:",
+    "options": [
+      "a. Neurotoxin",
+      "b. Dermonectrotoxin",
+      "c. Histotoxin",
+      "d. Enterotoxin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "135- The material for the bacteriological method for dysentery is:",
+    "options": [
+      "a. Blood",
+      "b. Pus",
+      "c. Stool",
+      "d. Urine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "136- Lactose-positive Escherichia form colonies on MacConkey medium:",
+    "options": [
+      "a. Black",
+      "b. Yellow",
+      "c. Colorless",
+      "d. Red"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "137- Morphological and tinctorial properties of Salmonella:",
+    "options": [
+      "a. Gram positive rods",
+      "b. Gram-negative rods",
+      "c. Gram-negative spore-forming rods",
+      "d. Gram-negative cocci"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "138- For the treatment of cholera are used:",
+    "options": [
+      "a. Tetracycline and electrolytes solutions",
+      "b. Nystatin and electrolytes solutions",
+      "c. Ftivazide and electrolytes solutions",
+      "d. Interferon and electrolytes solutions"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "139- Exotoxin produced by Vibrio cholera is:",
+    "options": [
+      "a. Enterotoxin",
+      "b. Dermonecrotoxin",
+      "c. Hemolysin",
+      "d. Neurotoxins"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "140- The source of infection in case of brucellosis is:",
+    "options": [
+      "a. Insects",
+      "b. Human",
+      "c. Soil",
+      "d. Cattle"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "141- Intestinal yersiniosis is caused by:",
+    "options": [
+      "a. Y. pseudotuberculosis",
+      "b. Y. pestis",
+      "c. Y. enterocolitica",
+      "d. K. ozaenae"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "142- For the treatment of influenza, everything is used, except for:",
+    "options": [
+      "a. immunoglobulin",
+      "b. interferonogens",
+      "c. interferon",
+      "d. vaccines",
+      "e. remantadine"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "143- Ways of transmission in HIV infection (everything is true, except for):",
+    "options": [
+      "a. when breastfeeding",
+      "b. during pregnancy",
+      "c. sexual",
+      "d. with intravenous drug use",
+      "e. when using common utensils"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "144- For the treatment of herpes simplex apply:",
+    "options": [
+      "a. Biseptol",
+      "b. Interferon",
+      "c. Acyclovir",
+      "d. Penicillins",
+      "e. Nitrofurans"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "145- Rabies treatment:",
+    "options": [
+      "a. not developed",
+      "b. immunomodulators",
+      "c. gamma globulin",
+      "d. interferons",
+      "e. antibiotics"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "146- To prevent hepatitis A, a vaccine is currently used:",
+    "options": [
+      "a. anatoxin",
+      "b. live vaccine",
+      "c. recombinant vaccine",
+      "d. killed vaccine"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "147- The measles virus belongs to the genus:",
+    "options": [
+      "a. Flavivirus",
+      "b. Paramyxovirus",
+      "c. Rubulavirus",
+      "d. Pneumovirus",
+      "e. Morbillivirus"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "148- Herpes zoster is caused by:",
+    "options": [
+      "a. fungi of the genus Candida",
+      "b. influenza virus",
+      "c. poliovirus",
+      "d. rhabdovirus",
+      "e. varicella-zoster virus"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "149- Viral hepatitis with a parenteral transmission mechanism includes everything except:",
+    "options": [
+      "a. hepatitis G",
+      "b. hepatitis B",
+      "c. hepatitis D",
+      "d. hepatitis A, hepatitis C"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "150- Hepatitis B virus antigens (all are true, except for):",
+    "options": [
+      "a. HBx- Ag",
+      "b. НВс-Ag",
+      "c. HBs-Ag",
+      "d. ND-core-Ag",
+      "e. HBe-Ag"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "151- For active specific prevention of hepatitis B is used:",
+    "options": [
+      "a. recombinant vaccine",
+      "b. live vaccine",
+      "c. immunoglobulin",
+      "d. killed vaccine",
+      "e. anatoxin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "152- Active immunization against measles is carried out:",
+    "options": [
+      "a. gamma globulin",
+      "b. live vaccine",
+      "c. inactivated vaccine",
+      "d. toxoid",
+      "e. DPT vaccine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "153- Route of transmission for influenza:",
+    "options": [
+      "a. by insect",
+      "b. ingestion",
+      "c. airborne",
+      "d. by sexual contact",
+      "e. congenitally"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "154- Influenza epidemics are often caused by influenza viruses of the serotype:",
+    "options": [
+      "a. B",
+      "b. C",
+      "c. D",
+      "d. A",
+      "e. E"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "155- Ways of transmission for hepatitis B (everything is true, except for):",
+    "options": [
+      "a. by food",
+      "b. blood transfusion",
+      "c. with intravenous drug use",
+      "d. by sexual contact",
+      "e. congenitally"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "156- Among the causative agents of viral hepatitis, DNA genomic viruses include:",
+    "options": [
+      "a. hepatitis D virus",
+      "b. hepatitis E virus",
+      "c. hepatitis A virus",
+      "d. hepatitis B virus",
+      "e. hepatitis C virus"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "157- Route of transmission for measles:",
+    "options": [
+      "a. by food",
+      "b. air-dust",
+      "c. by droplets",
+      "d. by water",
+      "e. throw transplacentl"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "158- A feature of pathogenesis in HIV infection is selective cell damage containing receptors:",
+    "options": [
+      "a. CD3 +",
+      "b. CD18 +",
+      "c. CD16 +",
+      "d. CD8 +",
+      "e. CD4 +"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "159- Prevention of hepatitis D:",
+    "options": [
+      "a. compliance with the rules of personal and public hygiene",
+      "b. vaccination against hepatitis B",
+      "c. vaccination against hepatitis A",
+      "d. interferon",
+      "e. immunoglobulin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "160- Which of the following diseases is characterized by the presence of the Negri bodies in the cells?:",
+    "options": [
+      "a. influenza",
+      "b. rubella",
+      "c. chickenpox",
+      "d. rabies",
+      "e. mumps"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "161- Antiviral drugs include the following, except for:",
+    "options": [
+      "a. interferon",
+      "b. metronidazole",
+      "c. remantadine",
+      "d. azidothymidine",
+      "e. acyclovir"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "162- Hepatitis B virus is classified as:",
+    "options": [
+      "a. family Picornaviridae, genus Hepatovirus",
+      "b. family Hepadnaviridae, genus Orthohepadnavirus",
+      "c. family Picornaviridae, genus Enterovirus",
+      "d. not classified",
+      "e. family Togaviridae, genus Rubivirus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "163- Viral hepatitis with enteral transmission mechanism:",
+    "options": [
+      "a. hepatitis E, hepatitis B",
+      "b. hepatitis A, hepatitis E",
+      "c. hepatitis C, hepatitis G",
+      "d. hepatitis B, hepatitis D",
+      "e. hepatitis B, hepatitis C"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "164- Viruses of the Enterovirus genus (everything is true, except for):",
+    "options": [
+      "a. contain DNA",
+      "b. contain RNA",
+      "c. simple",
+      "d. cubic symmetry",
+      "e. small"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "165- Features of the hepatitis D virus (everything is true, except for):",
+    "options": [
+      "a. reproduction in the presence of HBV",
+      "b. defectiveness of the virus",
+      "c. НВs-Ag in the composition of НDV envelope",
+      "d. inability to cause monoinfection",
+      "e. reproduction in the presence of HCV"
+    ],
+    "correct": 4
+  },
+  {
+    "question": "166- The main route of transmission in rabies:",
+    "options": [
+      "a. by contact (when bitten or salivated by sick animals)",
+      "b. by water",
+      "c. congenitally",
+      "d. by sexual contact",
+      "e. by insect"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "167- Ways of transmission of infection with poliomyelitis:",
+    "options": [
+      "a. fecal-oral",
+      "b. congenitally",
+      "c. transplacental",
+      "d. air-dust"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "168- Transmission factors in HIV infection (everything is true, in addition):",
+    "options": [
+      "a. tears",
+      "b. sperm",
+      "c. vaginal secretion",
+      "d. breast milk",
+      "e. blood"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "169- Specific prevention of HIV infection:",
+    "options": [
+      "a. recombinant vaccines",
+      "b. recombinant vaccines",
+      "c. not developed",
+      "d. live vaccines",
+      "e. donor immunoglobulins"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "170- Ways of transmission for hepatitis A (everything is true, except for):",
+    "options": [
+      "a. with infected products",
+      "b. through unwashed hands",
+      "c. through household items of the patient",
+      "d. congenitally",
+      "e. with infected water"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "171- Rabies virus classification:",
+    "options": [
+      "a. family Flaviviridae, genus Flavivirus",
+      "b. family Rhabdoviridae, genus Lyssavirus",
+      "c. family Filoviridae, genus Filovivirus",
+      "d. family Arenaviridae, genus Arenavirus",
+      "e. family Rhabdoviridae, genus Vesiculovirus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "172- The route of transmission of the virus in case of acquired rubella:",
+    "options": [
+      "a. by food",
+      "b. air-dust",
+      "c. transplacental",
+      "d. airborne",
+      "e. contact"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "173- Sources of infection in case of rabies (all is true, except for):",
+    "options": [
+      "a. foxes",
+      "b. cats",
+      "c. dogs",
+      "d. sick man",
+      "e. wolves"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "174- The clinical manifestations of candidiasis are as follows, except:",
+    "options": [
+      "a. Bronchopulmonary candidiasis",
+      "b. Vaginitis",
+      "c. Conjunctivitis",
+      "d. Intestinal candidiasis",
+      "e. Cutaneous candidiasis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "175- The causative agents of dermatophytoses are the following species, except:",
+    "options": [
+      "a. Microsporum canis",
+      "b. Histoplasma capsulatum",
+      "c. Epidermophyton floccosum",
+      "d. Trichophyton rubrum"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "176- Most often, candidiasis is caused by:",
+    "options": [
+      "a. C. tropicalis",
+      "b. C. krusei",
+      "c. C. albicans",
+      "d. C. parapsilosis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "177- What method is not used for to determine pyrogenicity:",
+    "options": [
+      "a. LAL test",
+      "b. ELISA test",
+      "c. Biological",
+      "d. Indirect"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "178- Causative agents of malaria are transmitted by biting of:",
+    "options": [
+      "a. Mosquitoes",
+      "b. Ticks",
+      "c. Fleas",
+      "d. Lice"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "179- For prophylaxis of trichomonosis is used:",
+    "options": [
+      "a. Toxoid",
+      "b. Live vaccine",
+      "c. Safe sex",
+      "d. Inactivated vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "180- For the quantitative determination of mold and yeast fungi in the air of the premises of pharmacies inoculation is performed on the medium:",
+    "options": [
+      "a. Meat peptone agar",
+      "b. Salt agar",
+      "c. MacConkey",
+      "d. Sabouraud medium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "181- Cultural properties of C. albicans:",
+    "options": [
+      "a. Formation on solid media R type colonies",
+      "b. The ability to grow dimorphic at 20 °C and 37 °C",
+      "c. Formation of S-type colonies on solid media",
+      "d. Ability to grow on Robertson’s cooked meat broth"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "182- In which room of pharmacies is it permissible to detect Staphylococcus aureus in the air:",
+    "options": [
+      "a. Service Hall",
+      "b. Assistant",
+      "c. Aseptic unit",
+      "d. Washing"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "183- The source and factors of transmission of pathogens of dermatophytoses are the following, except:",
+    "options": [
+      "a. animals",
+      "b. sick people",
+      "c. syringes and needles",
+      "d. barber tools",
+      "e. the soil"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "184- For the treatment of trichomonosis is used:",
+    "options": [
+      "a. Isoniazid",
+      "b. Streptomycin",
+      "c. Specific immunoglobulin",
+      "d. Metronidazole"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "185- The main medium for the isolation of fungi is:",
+    "options": [
+      "a. Meat peptone agar",
+      "b. Sabouraud agar",
+      "c. MacConkey agar",
+      "d. Robertson’s cooked meat broth"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "186- Causative agent of toxoplasmosis is not transmitted:",
+    "options": [
+      "a. By eating of undercooked meat",
+      "b. By sexual contact",
+      "c. Congenitally",
+      "d. By contact with cats"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "187- To determine the total number of bacteria in the air of the premises of pharmacies examine air in volume:",
+    "options": [
+      "a. 50 l",
+      "b. 150 l",
+      "c. 250 l",
+      "d. 100 l"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "188- To determine the amount of mesophilic aerobic and facultatively anaerobic bacteria in distilled water, inoculation of the test sample is performed on the medium:",
+    "options": [
+      "a. Salt agar",
+      "b. Meat peptone agar",
+      "c. MacConkey",
+      "d. Sabouraud medium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "189- Causative agents of malaria have organs of movement:",
+    "options": [
+      "a. Cilia",
+      "b. Pseudopodia",
+      "c. Flagella",
+      "d. Absent"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "190- The morphological and cultural properties of the causative agent of toxoplasmosis are as follows, except for:",
+    "options": [
+      "a. Moving with flagella",
+      "b. Intracellular parasitism",
+      "c. Cyst formation",
+      "d. Boat-shaped cells"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "191- In case of dermatophytoses, the material for research is everything except:",
+    "options": [
+      "a. hair",
+      "b. fingernails",
+      "c. scrapings from the skin",
+      "d. sputum"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "192- For the treatment of malaria is used:",
+    "options": [
+      "a. Chloroquine",
+      "b. Metronidazole",
+      "c. Nystatin",
+      "d. Anti-toxic serum"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "193- The causative agents of dermatophytoses are transmitted:",
+    "options": [
+      "a. By airborne droplets",
+      "b. By blood sucking insects",
+      "c. By food",
+      "d. By contact"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "194- For specific prophylaxis of toxoplasmosis is used:",
+    "options": [
+      "a. Toxoid",
+      "b. Inactivated vaccine",
+      "c. Not developed",
+      "d. Live vaccine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "195- All the options are characteristic of Streptococcus pneumoniae EXCEPT:",
+    "options": [
+      "a. Inulin fermentation",
+      "b. Optochin sensitivity",
+      "c. Bile solubility",
+      "d. Oxidase-positive"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "196- C.diphtheriae can be biochemically differentiated from C.ulcerans by:",
+    "options": [
+      "a. Urease test",
+      "b. Tellurite reduction",
+      "c. Oxidase test",
+      "d. Catalase test"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "197- The Clostridium species with spherical terminal spores is:",
+    "options": [
+      "a. C.difficile",
+      "b. C.perfringens",
+      "c. C.tertium",
+      "d. C.tetani"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "198- The food item associated with B.cereus emetic-type food poisoning is:",
+    "options": [
+      "a. Meat",
+      "b. Canned food",
+      "c. Milk and milk products",
+      "d. Cooked rice"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "199- Mycobacteria that produce toxins are:",
+    "options": [
+      "a. M.xenopi",
+      "b. M.scrofulaceum",
+      "c. M.abscesses",
+      "d. M.ulcerans"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "200- The mechanism of action of tetanospasmin is:",
+    "options": [
+      "a. Post-synaptic inhibition in spinal cord",
+      "b. Inhibition of acetyl choline receptors",
+      "c. Presynaptic inhibition in spinal cord",
+      "d. Inhibition of protein synthesis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "201- The selective media for isolating B.cereus from stool is :",
+    "options": [
+      "a. Mannitol salt agar.",
+      "b. Mannitol-egg yolk-polymixin agar",
+      "c. Buffered charcoal yeast extract agar",
+      "d. PLET medium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "202- Selective media for gonococci is:",
+    "options": [
+      "a. Thayer-Martin medium",
+      "b. DCA medium",
+      "c. Lowenstein-Jensen medium",
+      "d. Blood agar medium"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "203- All of the following organisms produce non-gonococcal urethritis EXCEPT:",
+    "options": [
+      "a. Chlamydia trachomatis",
+      "b. Mycoplasma genitalium",
+      "c. Chlamydia psittaci",
+      "d. Trichomonas vaginalis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "204- Fildes technique is used for isolation of :",
+    "options": [
+      "a. C.tetani",
+      "b. C.histolyticum",
+      "c. C.difficile",
+      "d. C.perfringens"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "205- The diphteria toxin has similar mechanism of action as the toxin of :",
+    "options": [
+      "a. Listeria",
+      "b. Clostridium tetani",
+      "c. E Coli",
+      "d. Pseudomonas aeruginosa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "206- Which of the following is a non- suppurative complication of Streptococcus pyogenes?:",
+    "options": [
+      "a. Pharyngitis",
+      "b. Acute rheumatic fever",
+      "c. Impetigo",
+      "d. Necrotising fasciitis"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "207- Penicillin resistance in Pneumococci is due to:",
+    "options": [
+      "a. All of the above",
+      "b. Acquisition of mec A gene",
+      "c. β lactamase production",
+      "d. Alteration in penicillin-binding proteins"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "208- Which of the following is not a cultural characteristic of B.anthracis?:",
+    "options": [
+      "a. Bamboo stick appearance",
+      "b. String of pearl reaction",
+      "c. Medusa head appearance",
+      "d. Inverted fir tree appearance"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "209- All of the following are causative agents of non-gonococcal urethritis EXCEPT :",
+    "options": [
+      "a. Neisseria sicca",
+      "b. Ureaplasma urealyticum",
+      "c. Gardnerella vaginalis",
+      "d. Chlamydia trachomatis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "210- Which of the following statements is false about food poisoning due to C.perfringens?:",
+    "options": [
+      "a. Food poisoning is usually caused by a cold or warmed up meat dish.",
+      "b. Preformed toxins are responsible.",
+      "c. It is caused by C.perfringens type A strains.",
+      "d. Spores of C.perfringens are responsible"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "211- The transport medium used for throat swabs in case of streptococcal pharyngitis is :",
+    "options": [
+      "a. Pike's medium",
+      "b. Buffered glycerol saline",
+      "c. Cary Blair medium",
+      "d. Stuart's medium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "212- The most commonly encountered coagulase-negative staphylococci in human infections is :",
+    "options": [
+      "a. Staph.saprophyticus",
+      "b. Staph.haemolyticus",
+      "c. Staph.epidermidis",
+      "d. Staph.lugdunensis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "213- The capsule of B.anthracis is formed of:",
+    "options": [
+      "a. Protein",
+      "b. Polysaccharide",
+      "c. Polypeptide",
+      "d. Lipid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "214- All of the following options are true about M protein of S.pyogenes EXCEPT :",
+    "options": [
+      "a. It is heat and acid-stable.",
+      "b. M protein is not antigenic.",
+      "c. It is used for typing streptococci.",
+      "d. It is responsible for virulence."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "215- Differentiation of Neisseria gonorrhoeae and Neisseria meningitidis is by :",
+    "options": [
+      "a. Glucose fermentation",
+      "b. VP reaction",
+      "c. Maltose fermentation",
+      "d. Indole test"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "216- The most common non-sporing anaerobe isolated from clinical specimens is:",
+    "options": [
+      "a. Veillonella parvula",
+      "b. Peptostreptococcus magnus",
+      "c. Fusobacterium nucleatum",
+      "d. Bacteriodes fragilis"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "217- The toxigenicity of C.diphtheriae is due to :",
+    "options": [
+      "a. Delta phage",
+      "b. Lambda phage",
+      "c. Gamma phage",
+      "d. Beta phage"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "218- The source of the streptokinase used for thrombolytic therapy is:",
+    "options": [
+      "a. S.pyogenes",
+      "b. S.agalactiae",
+      "c. S.mutans",
+      "d. S.equisimilis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "219- The HLA seen predominantly in patients with tuberculoid type of reaction is :",
+    "options": [
+      "a. HLA-MT1",
+      "b. HLADQ1",
+      "c. HLA-DR2",
+      "d. HLA-DR4"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "220- The arrangement of staphylococci is:",
+    "options": [
+      "a. In chains",
+      "b. In pairs",
+      "c. In clusters",
+      "d. None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "221- The Corynebacterium species causing prosthetic valve endocarditis is :",
+    "options": [
+      "a. C.xerosis",
+      "b. C.ulcerans",
+      "c. C.jeikeium",
+      "d. C.hofmanni"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "222- The virulence factors for N.gonorrhoeae includes all EXCEPT:",
+    "options": [
+      "a. Pili",
+      "b. IgAl protease",
+      "c. Outer membrane proteins",
+      "d. M protein"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "223- Erythrasma is caused by :",
+    "options": [
+      "a. C.xerosis",
+      "b. C.ulcerans",
+      "c. C.minutissimum",
+      "d. C.pseudotuberculosis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "224- Skin lesions in meningococcal meningitis is due to :",
+    "options": [
+      "a. Direct vascular damage",
+      "b. Allergic reaction",
+      "c. Endotoxin",
+      "d. Exotoxin"
+    ],
+    "correct": 2
+  }
+]
